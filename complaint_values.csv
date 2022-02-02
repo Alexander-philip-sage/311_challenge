@@ -1,0 +1,434 @@
+,0,1
+0,1722501,Noise - Residential
+1,1149728,HEAT/HOT WATER
+2,939603,Street Condition
+3,891730,Street Light Condition
+4,887869,HEATING
+5,867920,Blocked Driveway
+6,839945,Illegal Parking
+7,701818,PLUMBING
+8,630164,Water System
+9,500863,GENERAL CONSTRUCTION
+10,482615,General Construction/Plumbing
+11,461147,Noise
+12,439857,Noise - Street/Sidewalk
+13,434264,UNSANITARY CONDITION
+14,420676,Traffic Signal Condition
+15,361258,PAINT - PLASTER
+16,351446,Sewer
+17,340574,PAINT/PLASTER
+18,337505,Dirty Conditions
+19,335344,Noise - Commercial
+20,326335,Request Large Bulky Item Collection
+21,302981,ELECTRIC
+22,300457,Sanitation Condition
+23,280561,Damaged Tree
+24,264110,Building/Use
+25,261579,Rodent
+26,260890,NONCONST
+27,246427,Missed Collection (All Materials)
+28,232756,Sidewalk Condition
+29,207812,Derelict Vehicle
+30,201640,Noise - Vehicle
+31,199269,DOOR/WINDOW
+32,196553,Derelict Vehicles
+33,186635,WATER LEAK
+34,172119,Broken Muni Meter
+35,164756,Taxi Complaint
+36,164410,Consumer Complaint
+37,161432,Graffiti
+38,150087,New Tree Request
+39,145649,GENERAL
+40,139709,Overgrown Tree/Branches
+41,135080,FLOORING/STAIRS
+42,113957,Benefit Card Replacement
+43,113701,Maintenance or Facility
+44,109376,APPLIANCE
+45,109098,Homeless Person Assistance
+46,108496,DOF Property - Reduction Issue
+47,100743,Elevator
+48,87627,SCRIE
+49,86255,Root/Sewer/Sidewalk Condition
+50,81883,Food Establishment
+51,78356,Snow
+52,72491,DOF Parking - Payment Issue
+53,72016,Street Sign - Damaged
+54,71954,Air Quality
+55,64413,Non-Emergency Police Matter
+56,63830,DOF Property - Owner Issue
+57,61187,DOF Property - Request Copy
+58,59109,Electronics Waste
+59,58659,Other Enforcement
+60,58072,Lead
+61,57498,Dead Tree
+62,54363,For Hire Vehicle Complaint
+63,53720,DOF Property - Payment Issue
+64,52831,HPD Literature Request
+65,52178,Animal Abuse
+66,51517,Housing - Low Income Senior
+67,50158,Plumbing
+68,49849,SAFETY
+69,48514,Street Sign - Missing
+70,43882,Indoor Air Quality
+71,41869,Curb Condition
+72,41411,Highway Condition
+73,40930,DHS Advantage - Tenant
+74,40290,Vending
+75,39736,Emergency Response Team (ERT)
+76,39610,Dead/Dying Tree
+77,39375,Broken Parking Meter
+78,38787,Water Conservation
+79,38675,Traffic
+80,37156,Special Projects Inspection Team (SPIT)
+81,35775,Electrical
+82,34149,Noise - Park
+83,33935,Homeless Encampment
+84,31219,Construction Safety Enforcement
+85,30695,DHS Advantage -Landlord/Broker
+86,29066,Food Poisoning
+87,28310,Construction
+88,26472,Litter Basket / Request
+89,26376,Hazardous Materials
+90,26243,DCA / DOH New License Application Request
+91,23971,Illegal Tree Damage
+92,22808,Street Sign - Dangling
+93,21676,Standing Water
+94,21605,DOF Property - Update Account
+95,21238,Unsanitary Animal Pvt Property
+96,20315,Vacant Lot
+97,19643,Asbestos
+98,19319,BEST/Site Safety
+99,18866,Violation of Park Rules
+100,18795,Smoking
+101,18080,Housing Options
+102,17367,School Maintenance
+103,17351,Animal in a Park
+104,17132,Boilers
+105,16303,Noise Survey
+106,15595,Miscellaneous Categories
+107,14136,Industrial Waste
+108,14047,Traffic/Illegal Parking
+109,13267,Drinking
+110,12993,Bus Stop Shelter Complaint
+111,12557,Derelict Bicycle
+112,12282,Water Quality
+113,11723,Taxi Report
+114,11546,Non-Residential Heat
+115,11535,Overflowing Litter Baskets
+116,10327,DOF Parking - Request Status
+117,10265,Noise - Helicopter
+118,9803,Investigations and Discipline (IAD)
+119,9544,Indoor Sewage
+120,9485,DOF Parking - Request Copy
+121,9450,Noise - House of Worship
+122,9294,DPR Internal
+123,8812,Abandoned Vehicle
+124,8746,OEM Literature Request
+125,8433,Recycling Enforcement
+126,7876,Borough Office
+127,7265,Unleashed Dog
+128,7050,Building Marshals office
+129,7009,OUTSIDE BUILDING
+130,6953,DOF Parking - Tax Exemption
+131,6414,Sustainability Enforcement
+132,6386,ELEVATOR
+133,6092,Sweeping/Missed
+134,6056,Unsanitary Pigeon Condition
+135,6033,Elder Abuse
+136,5993,Public Payphone Complaint
+137,5853,Sweeping/Missed-Inadequate
+138,5705,Drug Activity
+139,5643,Taxi Compliment
+140,5500,Unsanitary Condition
+141,5229,Bridge Condition
+142,5082,Ferry Inquiry
+143,5078,CONSTRUCTION
+144,4630,Disorderly Youth
+145,4395,Urinating in Public
+146,4224,Bike/Roller/Skate Chronic
+147,4023,DRIE
+148,3617,Found Property
+149,3517,DOF Property - RPIE Issue
+150,3408,Home Repair
+151,3230,Mold
+152,3129,Posting Advertisement
+153,3113,Senior Center Complaint
+154,3078,Cranes and Derricks
+155,2949,Panhandling
+156,2758,Illegal Fireworks
+157,2710,Window Guard
+158,2701,Mosquitoes
+159,2611,Alzheimer's Care
+160,2592,Lost Property
+161,2539,Mobile Food Vendor
+162,2501,Plant
+163,2416,Scaffold Safety
+164,2393,City Vehicle Placard Complaint
+165,2375,Illegal Animal Kept as Pet
+166,2365,Bus Stop Shelter Placement
+167,2337,Ferry Complaint
+168,2272,For Hire Vehicle Report
+169,2162,Question
+170,2158,Facades
+171,2071,Day Care
+172,2010,DOF Property - Property Value
+173,1991,DOF Parking - DMV Clearance
+174,1986,Request Xmas Tree Collection
+175,1921,Sweeping/Inadequate
+176,1916,OEM Disabled Vehicle
+177,1762,Beach/Pool/Sauna Complaint
+178,1706,Collection Truck Noise
+179,1687,HEAP Assistance
+180,1668,Harboring Bees/Wasps
+181,1494,Quality of Life
+182,1467,Animal-Abuse
+183,1337,Poison Ivy
+184,1301,Utility Program
+185,1296,Forms
+186,1242,DHS Advantage - Third Party
+187,1202,DOF Property - City Rebate
+188,1177,Executive Inspections
+189,1166,Forensic Engineering
+190,1163,General
+191,1157,Weatherization
+192,1137,Home Delivered Meal - Missed Delivery
+193,1100,Bike Rack Condition
+194,1061,Drinking Water
+195,1009,Safety
+196,945,Tattooing
+197,937,Highway Sign - Damaged
+198,821,Home Delivered Meal Complaint
+199,796,Unsanitary Animal Facility
+200,771,Special Natural Area District (SNAD)
+201,758,Stalled Sites
+202,752,Advocate-Personal Exemptions
+203,715,Municipal Parking Facility
+204,650,Animal Facility - No Permit
+205,632,LinkNYC
+206,573,Adopt-A-Basket
+207,525,Eviction
+208,489,DOF Parking - Address Update
+209,485,Advocate-Prop Refunds/Credits
+210,479,Highway Sign - Missing
+211,478,Illegal Animal Sold
+212,463,ATF
+213,435,Public Toilet
+214,420,Teaching/Learning/Instruction
+215,419,Ferry Permit
+216,385,Discipline and Suspension
+217,383,Parking Card
+218,367,Pet Shop
+219,351,Taxpayer Advocate Inquiry
+220,324,Missed Collection
+221,324,Summer Camp
+222,302,FATF
+223,282,Bereavement Support Group
+224,281,Advocate - Other
+225,268,Special Operations
+226,268,DEP Street Condition
+227,257,Home Care Provider Complaint
+228,254,Case Management Agency Complaint
+229,239,Highway Sign - Dangling
+230,194,Comments
+231,190,Registration and Transfers
+232,183,FCST
+233,183,Transportation Provider Complaint
+234,176,Legal Services Provider Complaint
+235,165,Overflowing Recycling Baskets
+236,164,Health
+237,157,Lifeguard
+238,154,DHS Income Savings Requirement
+239,148,Calorie Labeling
+240,143,FHE
+241,136,Bottled Water
+242,107,Tunnel Condition
+243,104,X-Ray Machine/Equipment
+244,100,Cooling Tower
+245,89,Research Questions
+246,84,Advocate-Co-opCondo Abatement
+247,81,Radioactive Material
+248,75,Unlicensed Dog
+249,67,DOR Literature Request
+250,64,Parent Leadership
+251,63,Green Taxi Complaint
+252,48,Foam Ban Enforcement
+253,43,Tanning
+254,41,Advocate-Property Value
+255,41,Squeegee
+256,31,Trans Fat
+257,28,Single Occupancy Bathroom
+258,26,Water Maintenance
+259,25,Building Condition
+260,23,No Child Left Behind
+261,22,Taxi Licensee Complaint
+262,21,FHV Licensee Complaint
+263,21,Interior Demo
+264,20,NORC Complaint
+265,20,Dispatched Taxi Complaint
+266,20,SRDE
+267,19,Advocate-Commercial Exemptions
+268,18,Advocate-SCRIE/DRIE
+269,16,STRUCTURAL
+270,16,Fire Alarm - Reinspection
+271,13,Advocate - Lien
+272,13,Portable Toilet
+273,11,Public Assembly
+274,10,Advocate - RPIE
+275,9,Advocate-Prop Class Incorrect
+276,9,AGENCY
+277,9,Rangehood
+278,9,Fire Alarm - New System
+279,8,VACANT APARTMENT
+280,8,Advocate-Business Tax
+281,7,Green Taxi Report
+282,7,DOF Property - State Rebate
+283,6,Standpipe - Mechanical
+284,6,Outside Building
+285,5,Advocate-UBT
+286,5,Select Message Type...
+287,5,General Question
+288,4,.....................
+289,4,Appliance
+290,4,Fire Alarm - Modification
+291,4,../../../../../../../../../...
+292,4,Dept of Investigations
+293,4,Hazardous Material
+294,3,Sprinkler - Mechanical
+295,3,SNW
+296,3,Misc. Comments../../../../....
+297,3,DEP Sidewalk Condition
+298,2,Misc. Comments............
+299,2,file:///etc/passwd
+300,2,Homebound Evacuation 4
+301,2,Trapping Pigeon
+302,2,Hazmat Storage/Use
+303,2,Gas Station Discharge Lines
+304,2,DSNY Spillage
+305,2,Advocate - Levy
+306,2,Internal Code
+307,1,Misc. Comments'(select*from...
+308,1,Misc. Comments);declare @q ...
+309,1,"Misc. Comments"""
+310,1,Misc. Comments'+(select*fro...
+311,1,Misc. Comments{${sleep(20)}}
+312,1,Misc. Comments' and (select...
+313,1,Misc. Comments|nslookup -q=...
+314,1,Misc. Comments' and 7702=77...
+315,1,"Misc. Comments""|ping -..."
+316,1,hcvn1{{687*375}}gji51
+317,1,$(sleep 11)
+318,1,Misc. Comments'|echo y9v6fc...
+319,1,"""-->'-->`-->&..."
+320,1,@(9313*3464)
+321,1,.../....///.../....///.../....
+322,1,%c0%ae/WEB-INF/web.xml
+323,1,(select load_file('\\615h...
+324,1,%c0%ae/%c0%ae/%c0%ae/%c0%ae...
+325,1,Misc. Comments' and '1618'=...
+326,1,Fire Alarm - Replacement
+327,1,Misc. Comments' and 6049=60...
+328,1,Misc. Comments52038737' or ...
+329,1,Misc. Comments}}t2v95'/&quo...
+330,1,266dyrgvhg1egsyp2oq57axbm2s...
+331,1,Misc. Comments'.sleep(20).'
+332,1,Misc. Comments'|ping -c 21 ...
+333,1,Misc. Comments|ping -n 21 1...
+334,1,Misc. Comments]]>><
+335,1,${3804*3137}
+336,1,.../...//.../...//.../...//...
+337,1,DOF Literature Request
+338,1,../WEB-INF/web.xml
+339,1,Meals Home Delivery Required
+340,1,../../../WEB-INF/web.xml
+341,1,Misc. Comments'+eval(compil...
+342,1,Water Leak
+343,1,c:windowswin.ini Misc. Co...
+344,1,CST
+345,1,Misc. Comments  BCC:a5glxzf...
+346,1,Advocate-Foreclosure
+347,1,MSOTHER
+348,1,Illegal Animal - Sold/Kept
+349,1,%2e%2e%5c%2e%2e%5c%2e%2e%5c...
+350,1,eval(compile('for x in rang...
+351,1,Misc. Comments'+(function()...
+352,1,..././..././..././..././......
+353,1,DEP Highway Condition
+354,1,%{4761*8506}
+355,1,Misc. Comments';declare @q ...
+356,1,Public Assembly - Temporary
+357,1,Misc. Comments' and '7835'=...
+358,1,(select extractvalue(xmltyp...
+359,1,yw97y0gi2s
+360,1,Misc. Comments'
+361,1,`sleep 11`
+362,1,Misc. Comments69075347' or ...
+363,1,"a'a'b""c>?>%}}%%..."
+364,1,Misc. Comments>  BCC:bl0...
+365,1,bcd9<!--esi-->1ggp&lt...
+366,1,1430*4963
+367,1,SG-99
+368,1,qfix4${695*589}lixaf
+369,1,Asbestos/Garbage Nuisance
+370,1,"Misc. Comments""|echo 2..."
+371,1,Misc. Comments;declare @q v...
+372,1,Misc. Comments|echo 3p7wexz...
+373,1,Misc. Comments'+(select loa...
+374,1,file:///c:/windows/win.ini
+375,1,Misc. Comments' waitfor del...
+376,1,../../../../WEB-INF/web.xml
+377,1,Misc. Comments&echo xjd...
+378,1,%c0%ae/%c0%ae/%c0%ae/WEB-IN...
+379,1,windowswin.ini
+380,1,Injured Wildlife
+381,1,"<odb xmlns:xi=""http..."
+382,1,Misc. Comments88909845' or ...
+383,1,() { :;}; /bin/sleep 11
+384,1,Misc. Comments47876391' or ...
+385,1,kawn''lcgv
+386,1,Misc. Commentseowljujfh8
+387,1,%E5%98%8A%E5%98%8DX-Injecti...
+388,1,Misc. Comments'+sleep(20.to...
+389,1,%2fetc%2fpasswd
+390,1,Misc. Comments%}dt2pq'/&quo...
+391,1,../../../WEB-INF/web.xml;x=
+392,1,http://g7orz5h9iu2sh6z332rj...
+393,1,MOLD
+394,1,c:windowswin.ini
+395,1,Open Flame Permit
+396,1,.../..../..../..../.......
+397,1,%2e%2e%2f%2e%2e%2f%2e%2e%2f...
+398,1,/etc/passwd
+399,1,*)(!(objectClass=*)
+400,1,"<vlv xmlns=""http://..."
+401,1,{!xmlparser v='<!DOCTYPE...
+402,1,%{(#dm=@ognl.OgnlContext@DE...
+403,1,../WEB-INF/web.xml;x=
+404,1,../../WEB-INF/web.xml;x=
+405,1,"Misc. Comments,(select*from..."
+406,1,LEAD
+407,1,"Misc. Comments',0)waitfor d..."
+408,1,Misc. Comments'||(select ex...
+409,1,Misc. Commentso0w3r%>xb6...
+410,1,nslookup -q=cname nneyfcxgy...
+411,1,......................
+412,1,Misc. Comments&nslookup...
+413,1,..../..../..../..../......
+414,1,"Misc. Comments'""`0&amp..."
+415,1,.../Misc. Comments
+416,1,Misc. Comments&ping -n ...
+417,1,idexf3mrb7)(!(objectClass=*)
+418,1,Misc. Comments|ping -c 21 1...
+419,1,%c0%ae/%c0%ae/WEB-INF/web.xml
+420,1,./validate_form.php
+421,1,Dispatched Taxi Compliment
+422,1,g0oii1s4s5)(objectClass=*
+423,1,() { _; } >_
+424,1,../../WEB-INF/web.xml
+425,1,Employee Behavior
+426,1,Misc. Comments');declare @q...
+427,1,Misc. Comments')waitfor del...
+428,1,/./validate_form.php
+429,1,*)(objectClass=*
+430,1,() { :;}; /bin/sleep 0
+431,1,Electric
+432,1,Request Changes - A.S.P.

@@ -1,0 +1,1657 @@
+,0,1,2
+0,373859,BRONX,HEAT/HOT WATER
+1,20391,MANHATTAN,Homeless Encampment
+2,341076,QUEENS,Noise - Residential
+3,113577,BRONX,PAINT/PLASTER
+4,351816,BROOKLYN,HEAT/HOT WATER
+5,72719,BRONX,ELECTRIC
+6,55960,BROOKLYN,Derelict Vehicle
+7,16907,MANHATTAN,APPLIANCE
+8,317523,BROOKLYN,Blocked Driveway
+9,170844,BROOKLYN,Water System
+10,222090,MANHATTAN,Noise
+11,11620,MANHATTAN,Broken Parking Meter
+12,31776,BRONX,APPLIANCE
+13,284231,QUEENS,Street Condition
+14,109064,BROOKLYN,Noise - Commercial
+15,145177,BRONX,Blocked Driveway
+16,383788,MANHATTAN,Noise - Residential
+17,16420,BROOKLYN,Street Sign - Missing
+18,127706,QUEENS,General Construction/Plumbing
+19,25014,QUEENS,Snow
+20,174101,BROOKLYN,General Construction/Plumbing
+21,10005,BROOKLYN,Special Projects Inspection Team (SPIT)
+22,129370,MANHATTAN,Illegal Parking
+23,9222,MANHATTAN,Animal Abuse
+24,176849,BRONX,PLUMBING
+25,63429,MANHATTAN,Noise - Vehicle
+26,70953,QUEENS,Sidewalk Condition
+27,60145,MANHATTAN,Rodent
+28,261628,BROOKLYN,Street Condition
+29,42335,STATEN ISLAND,Sewer
+30,69597,QUEENS,PLUMBING
+31,97045,QUEENS,Derelict Vehicle
+32,11852,BRONX,Housing - Low Income Senior
+33,76678,BROOKLYN,Sidewalk Condition
+34,3379,BROOKLYN,Water Quality
+35,29878,MANHATTAN,FLOORING/STAIRS
+36,144046,QUEENS,Sewer
+37,79925,BROOKLYN,Missed Collection (All Materials)
+38,29067,BROOKLYN,Street Sign - Damaged
+39,96460,BROOKLYN,Sewer
+40,17837,STATEN ISLAND,Traffic Signal Condition
+41,4252,BROOKLYN,Animal in a Park
+42,12689,QUEENS,Lead
+43,4090,QUEENS,Asbestos
+44,81632,MANHATTAN,UNSANITARY CONDITION
+45,34142,BROOKLYN,Maintenance or Facility
+46,730,Unspecified,Violation of Park Rules
+47,65463,BROOKLYN,Graffiti
+48,2162,Unspecified,Question
+49,3611,BROOKLYN,Indoor Sewage
+50,13366,QUEENS,Water Conservation
+51,23592,MANHATTAN,New Tree Request
+52,7758,MANHATTAN,Taxi Report
+53,54150,BRONX,Traffic Signal Condition
+54,5302,BROOKLYN,Smoking
+55,5968,Unspecified,Highway Condition
+56,15876,QUEENS,Street Sign - Missing
+57,28653,QUEENS,Graffiti
+58,3194,BRONX,Food Poisoning
+59,7067,BROOKLYN,Food Poisoning
+60,1295,STATEN ISLAND,Indoor Air Quality
+61,7514,QUEENS,Electrical
+62,72489,Unspecified,DOF Parking - Payment Issue
+63,5995,MANHATTAN,Derelict Bicycle
+64,3095,QUEENS,Water Quality
+65,10947,STATEN ISLAND,Snow
+66,36129,QUEENS,DOF Property - Reduction Issue
+67,10990,MANHATTAN,Non-Emergency Police Matter
+68,1832,BRONX,DOF Property - Update Account
+69,28133,BROOKLYN,DOF Property - Reduction Issue
+70,55722,QUEENS,Overgrown Tree/Branches
+71,23085,QUEENS,DOF Property - Request Copy
+72,3614,BRONX,Housing Options
+73,13590,STATEN ISLAND,Root/Sewer/Sidewalk Condition
+74,661,BROOKLYN,DOF Property - Property Value
+75,11692,MANHATTAN,DOF Property - Payment Issue
+76,4322,BRONX,Broken Parking Meter
+77,3338,BRONX,Dead/Dying Tree
+78,5841,QUEENS,BEST/Site Safety
+79,5282,BRONX,Electrical
+80,26233,BROOKLYN,Snow
+81,652,QUEENS,DOF Property - Property Value
+82,2739,STATEN ISLAND,DOF Property - Update Account
+83,14061,QUEENS,Elevator
+84,3505,MANHATTAN,Bus Stop Shelter Complaint
+85,7796,BROOKLYN,Illegal Tree Damage
+86,36554,QUEENS,Root/Sewer/Sidewalk Condition
+87,19077,QUEENS,SCRIE
+88,23468,QUEENS,Street Sign - Damaged
+89,14217,BRONX,Overgrown Tree/Branches
+90,6246,STATEN ISLAND,ELECTRIC
+91,12861,MANHATTAN,Other Enforcement
+92,15860,MANHATTAN,Lead
+93,12669,QUEENS,Air Quality
+94,1957,BRONX,Animal in a Park
+95,24196,BRONX,Consumer Complaint
+96,7024,BROOKLYN,Street Sign - Dangling
+97,667,Unspecified,Bridge Condition
+98,3396,QUEENS,School Maintenance
+99,896,MANHATTAN,Borough Office
+100,901,MANHATTAN,DOF Property - RPIE Issue
+101,3896,BRONX,Hazardous Materials
+102,2935,MANHATTAN,Found Property
+103,2006,STATEN ISLAND,Electrical
+104,3356,MANHATTAN,Water Conservation
+105,8517,QUEENS,Special Projects Inspection Team (SPIT)
+106,2750,MANHATTAN,Unsanitary Animal Pvt Property
+107,2707,BROOKLYN,OUTSIDE BUILDING
+108,5702,QUEENS,Litter Basket / Request
+109,5597,STATEN ISLAND,Non-Emergency Police Matter
+110,42622,QUEENS,New Tree Request
+111,5115,STATEN ISLAND,Consumer Complaint
+112,18536,STATEN ISLAND,Overgrown Tree/Branches
+113,9188,BRONX,Snow
+114,1202,MANHATTAN,Facades
+115,4595,STATEN ISLAND,Dead/Dying Tree
+116,20203,BROOKLYN,Air Quality
+117,7503,BROOKLYN,Hazardous Materials
+118,419,Unspecified,Ferry Permit
+119,6333,Unspecified,Illegal Parking
+120,7171,BROOKLYN,Vacant Lot
+121,10326,Unspecified,DOF Parking - Request Status
+122,1553,STATEN ISLAND,Housing - Low Income Senior
+123,6828,BROOKLYN,Vending
+124,523,BROOKLYN,For Hire Vehicle Report
+125,152,Unspecified,Abandoned Vehicle
+126,696,STATEN ISLAND,Asbestos
+127,13791,MANHATTAN,Traffic
+128,1739,BRONX,Bus Stop Shelter Complaint
+129,2663,MANHATTAN,Housing Options
+130,3512,STATEN ISLAND,Vacant Lot
+131,577,BRONX,Day Care
+132,479,MANHATTAN,Bike Rack Condition
+133,11299,MANHATTAN,Noise - Park
+134,1510,BROOKLYN,DPR Internal
+135,5925,QUEENS,Noise - Park
+136,4401,BRONX,Taxi Complaint
+137,1930,STATEN ISLAND,Street Sign - Dangling
+138,4120,BRONX,Unsanitary Animal Pvt Property
+139,4653,MANHATTAN,Boilers
+140,993,QUEENS,Public Payphone Complaint
+141,1071,STATEN ISLAND,Special Projects Inspection Team (SPIT)
+142,3577,QUEENS,Smoking
+143,745,BROOKLYN,Illegal Animal Kept as Pet
+144,48,QUEENS,Case Management Agency Complaint
+145,181,QUEENS,Home Delivered Meal Complaint
+146,419,BROOKLYN,Quality of Life
+147,385,MANHATTAN,Posting Advertisement
+148,2159,STATEN ISLAND,APPLIANCE
+149,218,MANHATTAN,Executive Inspections
+150,2615,STATEN ISLAND,FLOORING/STAIRS
+151,962,STATEN ISLAND,Unleashed Dog
+152,17,STATEN ISLAND,Sweeping/Missed
+153,283,BRONX,Bus Stop Shelter Placement
+154,583,BRONX,Sustainability Enforcement
+155,1461,BRONX,BEST/Site Safety
+156,3806,MANHATTAN,Dead/Dying Tree
+157,6288,STATEN ISLAND,Noise - Street/Sidewalk
+158,2333,Unspecified,Ferry Complaint
+159,99,Unspecified,Street Sign - Dangling
+160,3650,BROOKLYN,Investigations and Discipline (IAD)
+161,1160,BROOKLYN,Public Payphone Complaint
+162,3110,QUEENS,Overflowing Litter Baskets
+163,1891,QUEENS,Indoor Sewage
+164,171,STATEN ISLAND,DOF Property - RPIE Issue
+165,1451,QUEENS,DPR Internal
+166,240,BRONX,Mobile Food Vendor
+167,1661,BRONX,Industrial Waste
+168,588,MANHATTAN,Bus Stop Shelter Placement
+169,284,BROOKLYN,Tattooing
+170,175,Unspecified,Animal Abuse
+171,437,BRONX,Urinating in Public
+172,1040,BRONX,Unleashed Dog
+173,1544,BROOKLYN,Unsanitary Pigeon Condition
+174,439,BRONX,Alzheimer's Care
+175,1177,Unspecified,School Maintenance
+176,3,MANHATTAN,Advocate-Business Tax
+177,6509,QUEENS,Hazardous Materials
+178,90,STATEN ISLAND,Collection Truck Noise
+179,284,STATEN ISLAND,Illegal Animal Kept as Pet
+180,89,Unspecified,Research Questions
+181,7,Unspecified,FATF
+182,118,QUEENS,FATF
+183,949,MANHATTAN,Unleashed Dog
+184,618,Unspecified,Noise - Vehicle
+185,55,STATEN ISLAND,ELEVATOR
+186,194,STATEN ISLAND,Building Marshals office
+187,461,QUEENS,Bike/Roller/Skate Chronic
+188,176,Unspecified,Highway Sign - Damaged
+189,31,QUEENS,Unlicensed Dog
+190,89,MANHATTAN,Illegal Animal Sold
+191,1753,BRONX,Unsanitary Condition
+192,340,BRONX,DOF Property - RPIE Issue
+193,1498,STATEN ISLAND,Industrial Waste
+194,20,QUEENS,Advocate-Co-opCondo Abatement
+195,79,BRONX,Special Operations
+196,346,STATEN ISLAND,Boilers
+197,557,STATEN ISLAND,Special Natural Area District (SNAD)
+198,2395,BRONX,Standing Water
+199,82,Unspecified,Curb Condition
+200,157,BRONX,Panhandling
+201,280,STATEN ISLAND,Taxi Complaint
+202,50,Unspecified,Highway Sign - Dangling
+203,429,BRONX,Illegal Animal Kept as Pet
+204,206,Unspecified,Dead/Dying Tree
+205,96,Unspecified,Homeless Encampment
+206,3918,Unspecified,Noise - Residential
+207,101,Unspecified,Rodent
+208,164,BRONX,Beach/Pool/Sauna Complaint
+209,128,MANHATTAN,Safety
+210,311,QUEENS,Scaffold Safety
+211,288,MANHATTAN,Window Guard
+212,1992,MANHATTAN,Lost Property
+213,1,Unspecified,"Misc. Comments',0)waitfor d..."
+214,1,Unspecified,Misc. Comments')waitfor del...
+215,4,Unspecified,.....................
+216,1,Unspecified,..../..../..../..../......
+217,1,Unspecified,.../Misc. Comments
+218,1,Unspecified,/./validate_form.php
+219,1,Unspecified,%c0%ae/%c0%ae/WEB-INF/web.xml
+220,292,BRONX,Animal-Abuse
+221,267,MANHATTAN,Animal-Abuse
+222,58,Unspecified,Lost Property
+223,3,QUEENS,Outside Building
+224,5,Unspecified,Missed Collection
+225,21,MANHATTAN,Missed Collection
+226,184,Unspecified,Homeless Person Assistance
+227,261,Unspecified,Noise - Park
+228,996,Unspecified,Dirty Conditions
+229,37,QUEENS,Lifeguard
+230,2,STATEN ISLAND,Ferry Inquiry
+231,61,MANHATTAN,Lifeguard
+232,21,BROOKLYN,Unlicensed Dog
+233,128,STATEN ISLAND,Urinating in Public
+234,2,Unspecified,Plumbing
+235,43,Unspecified,Bike/Roller/Skate Chronic
+236,1,MANHATTAN,Dispatched Taxi Compliment
+237,79,QUEENS,Bike Rack Condition
+238,12,BRONX,Lifeguard
+239,317,QUEENS,Highway Sign - Damaged
+240,107868,BRONX,GENERAL CONSTRUCTION
+241,6944,QUEENS,DHS Advantage - Tenant
+242,32413,QUEENS,Broken Muni Meter
+243,7225,QUEENS,DHS Advantage -Landlord/Broker
+244,198,QUEENS,DHS Advantage - Third Party
+245,13483,BROOKLYN,DHS Advantage - Tenant
+246,11855,BROOKLYN,DHS Advantage -Landlord/Broker
+247,413,BROOKLYN,DHS Advantage - Third Party
+248,26282,QUEENS,Dead Tree
+249,426,QUEENS,Weatherization
+250,119,BROOKLYN,Discipline and Suspension
+251,440,BROOKLYN,Weatherization
+252,157,BROOKLYN,Eviction
+253,214,STATEN ISLAND,Public Payphone Complaint
+254,452,QUEENS,DOF Property - City Rebate
+255,105,BRONX,Collection Truck Noise
+256,94,QUEENS,Teaching/Learning/Instruction
+257,223,BRONX,Utility Program
+258,626,MANHATTAN,Sweeping/Missed-Inadequate
+259,14,BROOKLYN,Calorie Labeling
+260,43,Unspecified,Registration and Transfers
+261,252,MANHATTAN,Home Repair
+262,28,Unspecified,Elder Abuse
+263,205,MANHATTAN,HEAP Assistance
+264,21,Unspecified,DOF Property - Owner Issue
+265,68,QUEENS,Eviction
+266,114,BROOKLYN,Highway Sign - Missing
+267,40,Unspecified,Legal Services Provider Complaint
+268,56,STATEN ISLAND,Stalled Sites
+269,61210,MANHATTAN,GENERAL CONSTRUCTION
+270,384,BRONX,Sweeping/Missed-Inadequate
+271,86,STATEN ISLAND,DHS Advantage - Third Party
+272,45,Unspecified,Safety
+273,1,BRONX,Trans Fat
+274,102,BRONX,DOF Property - City Rebate
+275,13,Unspecified,Parent Leadership
+276,84,STATEN ISLAND,Weatherization
+277,27,BRONX,Home Care Provider Complaint
+278,19,BROOKLYN,Water Maintenance
+279,64,Unspecified,Litter Basket / Request
+280,36,QUEENS,Registration and Transfers
+281,29,BRONX,Found Property
+282,67,STATEN ISLAND,Alzheimer's Care
+283,40,MANHATTAN,Summer Camp
+284,117,QUEENS,Highway Sign - Missing
+285,70,Unspecified,Transportation Provider Complaint
+286,207,MANHATTAN,Forensic Engineering
+287,18,BRONX,Bottled Water
+288,5,BRONX,Water Maintenance
+289,46,STATEN ISLAND,Unsanitary Animal Facility
+290,42,STATEN ISLAND,Scaffold Safety
+291,15,Unspecified,Case Management Agency Complaint
+292,38,MANHATTAN,X-Ray Machine/Equipment
+293,18,BROOKLYN,Radioactive Material
+294,12,Unspecified,Health
+295,17,QUEENS,Radioactive Material
+296,34,MANHATTAN,Transportation Provider Complaint
+297,871,BRONX,CONSTRUCTION
+298,23,MANHATTAN,Highway Sign - Dangling
+299,118,STATEN ISLAND,CONSTRUCTION
+300,1,QUEENS,Portable Toilet
+301,2,MANHATTAN,No Child Left Behind
+302,62,MANHATTAN,Bereavement Support Group
+303,31,MANHATTAN,Bottled Water
+304,17795,MANHATTAN,Building/Use
+305,15248,BROOKLYN,Animal Abuse
+306,29847,BROOKLYN,APPLIANCE
+307,353496,QUEENS,Blocked Driveway
+308,60051,BRONX,WATER LEAK
+309,23835,MANHATTAN,For Hire Vehicle Complaint
+310,201464,BROOKLYN,PLUMBING
+311,39787,MANHATTAN,DOOR/WINDOW
+312,79187,QUEENS,Noise
+313,43106,MANHATTAN,Consumer Complaint
+314,22194,STATEN ISLAND,Derelict Vehicle
+315,114414,BROOKLYN,PAINT/PLASTER
+316,10338,BRONX,Animal Abuse
+317,427473,BRONX,Noise - Residential
+318,13510,QUEENS,Animal Abuse
+319,32912,MANHATTAN,Request Large Bulky Item Collection
+320,56064,QUEENS,Noise - Commercial
+321,93455,BRONX,Illegal Parking
+322,6950,BROOKLYN,Homeless Encampment
+323,118267,MANHATTAN,Street Light Condition
+324,64427,BRONX,DOOR/WINDOW
+325,16589,BROOKLYN,Non-Emergency Police Matter
+326,35669,BRONX,Noise - Vehicle
+327,1273,BROOKLYN,Urinating in Public
+328,53312,BRONX,Rodent
+329,10788,STATEN ISLAND,UNSANITARY CONDITION
+330,136502,BROOKLYN,Traffic Signal Condition
+331,40352,MANHATTAN,GENERAL
+332,131550,BRONX,UNSANITARY CONDITION
+333,91074,QUEENS,Sanitation Condition
+334,36604,QUEENS,PAINT/PLASTER
+335,98104,BROOKLYN,ELECTRIC
+336,5321,BRONX,Lead
+337,40277,QUEENS,Noise - Vehicle
+338,84401,QUEENS,Missed Collection (All Materials)
+339,108109,MANHATTAN,General Construction/Plumbing
+340,47941,MANHATTAN,Dirty Conditions
+341,35278,MANHATTAN,WATER LEAK
+342,83184,MANHATTAN,Homeless Person Assistance
+343,15694,QUEENS,Other Enforcement
+344,13242,BRONX,SAFETY
+345,31116,BRONX,Elevator
+346,9103,MANHATTAN,SAFETY
+347,2334,MANHATTAN,Bike/Roller/Skate Chronic
+348,45448,BROOKLYN,Overgrown Tree/Branches
+349,1860,Unspecified,Derelict Vehicle
+350,22108,QUEENS,Non-Emergency Police Matter
+351,4773,MANHATTAN,Derelict Vehicles
+352,3685,STATEN ISLAND,Animal Abuse
+353,37270,QUEENS,ELECTRIC
+354,39456,BRONX,GENERAL
+355,4138,BRONX,Homeless Person Assistance
+356,11363,QUEENS,APPLIANCE
+357,3024,QUEENS,Boilers
+358,535,BROOKLYN,Mobile Food Vendor
+359,12266,STATEN ISLAND,PLUMBING
+360,13316,BROOKLYN,Curb Condition
+361,6852,MANHATTAN,Violation of Park Rules
+362,3172,BRONX,School Maintenance
+363,30797,MANHATTAN,Food Establishment
+364,3846,BRONX,Traffic
+365,12662,QUEENS,FLOORING/STAIRS
+366,5808,STATEN ISLAND,PAINT/PLASTER
+367,48512,BRONX,Dirty Conditions
+368,10663,QUEENS,Broken Parking Meter
+369,5477,BROOKLYN,Asbestos
+370,28608,MANHATTAN,Sanitation Condition
+371,13468,Unspecified,Street Light Condition
+372,6483,BROOKLYN,DOF Property - Update Account
+373,1050,MANHATTAN,DRIE
+374,15751,QUEENS,DOF Property - Payment Issue
+375,24539,QUEENS,Maintenance or Facility
+376,11479,MANHATTAN,DOF Property - Owner Issue
+377,735,BRONX,Borough Office
+378,606,BRONX,Sweeping/Missed
+379,5764,BRONX,DOF Property - Request Copy
+380,26243,Unspecified,DCA / DOH New License Application Request
+381,46155,BROOKLYN,FLOORING/STAIRS
+382,194,Unspecified,Comments
+383,80,BROOKLYN,Pet Shop
+384,6475,STATEN ISLAND,DOF Property - Request Copy
+385,4299,BRONX,Curb Condition
+386,10442,MANHATTAN,Plumbing
+387,13939,BRONX,SCRIE
+388,5505,QUEENS,Vacant Lot
+389,1867,QUEENS,Taxi Report
+390,13067,BROOKLYN,Electrical
+391,390,Unspecified,Street Sign - Damaged
+392,9217,STATEN ISLAND,New Tree Request
+393,784,STATEN ISLAND,Broken Parking Meter
+394,11486,BROOKLYN,Broken Parking Meter
+395,21933,BROOKLYN,Taxi Complaint
+396,1152,QUEENS,Building Marshals office
+397,12043,QUEENS,Housing - Low Income Senior
+398,6746,QUEENS,Illegal Tree Damage
+399,17935,BROOKLYN,Housing - Low Income Senior
+400,183,STATEN ISLAND,Bus Stop Shelter Placement
+401,404,MANHATTAN,Beach/Pool/Sauna Complaint
+402,3044,MANHATTAN,Water Quality
+403,1171,MANHATTAN,Drug Activity
+404,119,BROOKLYN,LinkNYC
+405,134,Unspecified,New Tree Request
+406,4807,BRONX,Other Enforcement
+407,26876,MANHATTAN,SCRIE
+408,31,BRONX,Taxpayer Advocate Inquiry
+409,1721,Unspecified,Street Condition
+410,5336,BROOKLYN,Housing Options
+411,3916,BRONX,Boilers
+412,2273,STATEN ISLAND,GENERAL
+413,693,MANHATTAN,For Hire Vehicle Report
+414,927,QUEENS,DOF Property - RPIE Issue
+415,802,BROOKLYN,Cranes and Derricks
+416,707,BRONX,Window Guard
+417,3609,QUEENS,Bus Stop Shelter Complaint
+418,3941,MANHATTAN,Non-Residential Heat
+419,6809,QUEENS,Indoor Air Quality
+420,6142,QUEENS,Food Poisoning
+421,7415,QUEENS,Street Sign - Dangling
+422,6517,MANHATTAN,Curb Condition
+423,28578,MANHATTAN,Maintenance or Facility
+424,4624,BRONX,DOF Property - Payment Issue
+425,528,QUEENS,Mobile Food Vendor
+426,2703,STATEN ISLAND,Lead
+427,9930,BROOKLYN,Dead/Dying Tree
+428,208,BRONX,Drinking Water
+429,1094,QUEENS,Noise - Helicopter
+430,3425,BRONX,Vending
+431,774,STATEN ISLAND,Sustainability Enforcement
+432,2707,BRONX,Litter Basket / Request
+433,2458,BRONX,Street Sign - Dangling
+434,5831,QUEENS,Vending
+435,5722,QUEENS,Unsanitary Animal Pvt Property
+436,272,BRONX,Facades
+437,462,QUEENS,Posting Advertisement
+438,117,MANHATTAN,Advocate-Prop Refunds/Credits
+439,1055,STATEN ISLAND,Animal in a Park
+440,3635,MANHATTAN,BEST/Site Safety
+441,14631,MANHATTAN,Damaged Tree
+442,2068,BRONX,Homeless Encampment
+443,970,QUEENS,Urinating in Public
+444,6010,BRONX,Water Conservation
+445,3246,QUEENS,Animal in a Park
+446,591,QUEENS,Alzheimer's Care
+447,738,BROOKLYN,Alzheimer's Care
+448,10190,BRONX,New Tree Request
+449,956,MANHATTAN,Mold
+450,2421,STATEN ISLAND,Unsanitary Animal Pvt Property
+451,431,STATEN ISLAND,Borough Office
+452,3040,BROOKLYN,Sweeping/Missed
+453,3154,BROOKLYN,Bus Stop Shelter Complaint
+454,263,MANHATTAN,Drinking Water
+455,425,BROOKLYN,Collection Truck Noise
+456,2755,BROOKLYN,Building Marshals office
+457,1176,BROOKLYN,DOF Property - RPIE Issue
+458,17,MANHATTAN,Foam Ban Enforcement
+459,1885,STATEN ISLAND,Litter Basket / Request
+460,46,MANHATTAN,FATF
+461,354,STATEN ISLAND,Mold
+462,1092,MANHATTAN,Sustainability Enforcement
+463,370,BROOKLYN,Home Delivered Meal - Missed Delivery
+464,4757,BRONX,DOF Property - Owner Issue
+465,2437,QUEENS,Investigations and Discipline (IAD)
+466,919,STATEN ISLAND,Bus Stop Shelter Complaint
+467,1758,BROOKLYN,Unleashed Dog
+468,297,Unspecified,DPR Internal
+469,87,BROOKLYN,Advocate - Other
+470,513,Unspecified,Damaged Tree
+471,391,QUEENS,Quality of Life
+472,1075,QUEENS,OUTSIDE BUILDING
+473,83,BRONX,Executive Inspections
+474,205,QUEENS,Tattooing
+475,345,STATEN ISLAND,Vending
+476,69,BROOKLYN,Special Operations
+477,3152,BROOKLYN,Overflowing Litter Baskets
+478,786,BROOKLYN,Senior Center Complaint
+479,32,BRONX,Advocate-Prop Refunds/Credits
+480,1834,STATEN ISLAND,Hazardous Materials
+481,605,Unspecified,Taxi Report
+482,1021,MANHATTAN,Unsanitary Condition
+483,1858,MANHATTAN,Panhandling
+484,315,QUEENS,Advocate-Personal Exemptions
+485,358,Unspecified,Street Sign - Missing
+486,3907,MANHATTAN,School Maintenance
+487,32,BRONX,Case Management Agency Complaint
+488,3409,BRONX,Violation of Park Rules
+489,4489,BRONX,Noise - Park
+490,229,QUEENS,Facades
+491,104,BROOKLYN,Taxpayer Advocate Inquiry
+492,419,BROOKLYN,Beach/Pool/Sauna Complaint
+493,141,QUEENS,Pet Shop
+494,264,QUEENS,Home Delivered Meal - Missed Delivery
+495,200,BROOKLYN,Advocate-Personal Exemptions
+496,519,QUEENS,Cranes and Derricks
+497,1758,QUEENS,Unsanitary Pigeon Condition
+498,892,BRONX,Disorderly Youth
+499,211,BRONX,Taxi Report
+500,206,BROOKLYN,Unsanitary Animal Facility
+501,52,Unspecified,Illegal Tree Damage
+502,661,QUEENS,Illegal Animal Kept as Pet
+503,235,QUEENS,Drinking Water
+504,61,MANHATTAN,Cooling Tower
+505,552,QUEENS,Senior Center Complaint
+506,34,BRONX,Bike Rack Condition
+507,165,STATEN ISLAND,Bike/Roller/Skate Chronic
+508,3226,MANHATTAN,Miscellaneous Categories
+509,254,QUEENS,Unsanitary Animal Facility
+510,5948,BROOKLYN,Standing Water
+511,5999,QUEENS,Standing Water
+512,13,STATEN ISLAND,Executive Inspections
+513,334,BROOKLYN,Found Property
+514,37,Unspecified,Food Poisoning
+515,279,BRONX,Harboring Bees/Wasps
+516,4400,STATEN ISLAND,Standing Water
+517,75,MANHATTAN,Case Management Agency Complaint
+518,296,BRONX,Safety
+519,425,STATEN ISLAND,Unsanitary Pigeon Condition
+520,60,BROOKLYN,Special Natural Area District (SNAD)
+521,126,QUEENS,Taxpayer Advocate Inquiry
+522,498,BROOKLYN,Harboring Bees/Wasps
+523,268,BRONX,Mosquitoes
+524,492,STATEN ISLAND,Housing Options
+525,79,STATEN ISLAND,Forensic Engineering
+526,334,BRONX,Mold
+527,37,STATEN ISLAND,Mobile Food Vendor
+528,242,STATEN ISLAND,Harboring Bees/Wasps
+529,107,Unspecified,For Hire Vehicle Report
+530,167,BRONX,Derelict Bicycle
+531,10,BRONX,Tanning
+532,37,STATEN ISLAND,Derelict Bicycle
+533,277,Unspecified,Food Establishment
+534,80,QUEENS,Public Toilet
+535,96,Unspecified,Home Delivered Meal Complaint
+536,4,MANHATTAN,Advocate-Commercial Exemptions
+537,274,MANHATTAN,General
+538,278,MANHATTAN,Mosquitoes
+539,154,STATEN ISLAND,Unsanitary Condition
+540,1021,Unspecified,Noise - Commercial
+541,36,STATEN ISLAND,Safety
+542,1355,MANHATTAN,Disorderly Youth
+543,24,STATEN ISLAND,Sweeping/Inadequate
+544,1,Unspecified,(select extractvalue(xmltyp...
+545,1,Unspecified,Misc. Comments');declare @q...
+546,1,Unspecified,%2e%2e%5c%2e%2e%5c%2e%2e%5c...
+547,1,Unspecified,1430*4963
+548,1,Unspecified,() { :;}; /bin/sleep 0
+549,423,BROOKLYN,Animal-Abuse
+550,377,QUEENS,Lost Property
+551,1151,BRONX,Abandoned Vehicle
+552,227,MANHATTAN,Abandoned Vehicle
+553,162,MANHATTAN,Public Toilet
+554,11,BRONX,Lost Property
+555,240,BRONX,Bike/Roller/Skate Chronic
+556,100,QUEENS,Special Natural Area District (SNAD)
+557,39,BROOKLYN,Lifeguard
+558,11,Unspecified,Indoor Air Quality
+559,65,STATEN ISLAND,Missed Collection
+560,11,Unspecified,Drug Activity
+561,163,Unspecified,Derelict Vehicles
+562,18,MANHATTAN,Green Taxi Complaint
+563,20,MANHATTAN,Taxi Compliment
+564,18,BRONX,Missed Collection
+565,14,Unspecified,Illegal Fireworks
+566,507,Unspecified,Sanitation Condition
+567,33,Unspecified,Drinking
+568,2,Unspecified,Building/Use
+569,1,MANHATTAN,Electric
+570,1,Unspecified,DEP Highway Condition
+571,256,QUEENS,Found Property
+572,34,MANHATTAN,Poison Ivy
+573,6,Unspecified,General Construction/Plumbing
+574,1,STATEN ISLAND,Ferry Complaint
+575,4,BROOKLYN,Single Occupancy Bathroom
+576,122,STATEN ISLAND,Panhandling
+577,80343,Unspecified,NONCONST
+578,3061,MANHATTAN,Traffic/Illegal Parking
+579,1222,STATEN ISLAND,Traffic/Illegal Parking
+580,93781,MANHATTAN,Broken Muni Meter
+581,1215,QUEENS,Home Repair
+582,6876,STATEN ISLAND,Dead Tree
+583,1452,MANHATTAN,Bridge Condition
+584,238,STATEN ISLAND,Non-Residential Heat
+585,1540,BRONX,Traffic/Illegal Parking
+586,311,STATEN ISLAND,Home Repair
+587,430,BROOKLYN,Utility Program
+588,339,QUEENS,Window Guard
+589,149,MANHATTAN,Animal Facility - No Permit
+590,5,MANHATTAN,Portable Toilet
+591,477,BRONX,Home Repair
+592,3192,BROOKLYN,Sweeping/Missed-Inadequate
+593,526,BROOKLYN,HEAP Assistance
+594,137525,MANHATTAN,HEATING
+595,269,BRONX,HEAP Assistance
+596,94,STATEN ISLAND,Utility Program
+597,153,BRONX,Posting Advertisement
+598,135,MANHATTAN,Eviction
+599,512,QUEENS,HEAP Assistance
+600,641,MANHATTAN,City Vehicle Placard Complaint
+601,45473,MANHATTAN,PAINT - PLASTER
+602,79422,BRONX,PAINT - PLASTER
+603,152,QUEENS,Illegal Animal Sold
+604,108,Unspecified,DOF Property - Payment Issue
+605,46,STATEN ISLAND,Sweeping/Missed-Inadequate
+606,6,MANHATTAN,DOF Property - State Rebate
+607,151,STATEN ISLAND,HEAP Assistance
+608,558,BRONX,Bridge Condition
+609,19,STATEN ISLAND,Teaching/Learning/Instruction
+610,68,STATEN ISLAND,Municipal Parking Facility
+611,425,BRONX,City Vehicle Placard Complaint
+612,75804,QUEENS,HEATING
+613,56,Unspecified,Teaching/Learning/Instruction
+614,42,STATEN ISLAND,Bridge Condition
+615,132848,BROOKLYN,GENERAL CONSTRUCTION
+616,188,MANHATTAN,Adopt-A-Basket
+617,24,Unspecified,Missed Collection (All Materials)
+618,31192,MANHATTAN,NONCONST
+619,8,Unspecified,No Child Left Behind
+620,29,BROOKLYN,FHE
+621,8358,STATEN ISLAND,GENERAL CONSTRUCTION
+622,50,BRONX,FHE
+623,49,BRONX,Summer Camp
+624,3,STATEN ISLAND,FHE
+625,93,QUEENS,Summer Camp
+626,65,BROOKLYN,Bereavement Support Group
+627,18,MANHATTAN,Registration and Transfers
+628,27,MANHATTAN,Radioactive Material
+629,28,Unspecified,Air Quality
+630,26,Unspecified,Lead
+631,106,MANHATTAN,Highway Sign - Damaged
+632,64,MANHATTAN,OEM Disabled Vehicle
+633,71,BRONX,OEM Disabled Vehicle
+634,71,MANHATTAN,Home Care Provider Complaint
+635,31,BRONX,Highway Sign - Dangling
+636,67,BRONX,Animal Facility - No Permit
+637,20,QUEENS,Calorie Labeling
+638,154,Unspecified,DHS Income Savings Requirement
+639,27490,QUEENS,Construction
+640,6265,MANHATTAN,Noise Survey
+641,2050,BRONX,Noise Survey
+642,11,BRONX,X-Ray Machine/Equipment
+643,444,BROOKLYN,Construction
+644,3,Unspecified,Unsanitary Pigeon Condition
+645,12,STATEN ISLAND,Bike Rack Condition
+646,15,STATEN ISLAND,Calorie Labeling
+647,6,BROOKLYN,Trans Fat
+648,529,STATEN ISLAND,Miscellaneous Categories
+649,15,STATEN ISLAND,Summer Camp
+650,4,BROOKLYN,STRUCTURAL
+651,2,STATEN ISLAND,Trans Fat
+652,33,QUEENS,Overflowing Recycling Baskets
+653,76,BRONX,Forensic Engineering
+654,32,BROOKLYN,Overflowing Recycling Baskets
+655,9,MANHATTAN,Tanning
+656,10,STATEN ISLAND,Facades
+657,2,BROOKLYN,Building Condition
+658,11,STATEN ISLAND,Highway Sign - Dangling
+659,19,BRONX,Transportation Provider Complaint
+660,5,BRONX,Advocate-SCRIE/DRIE
+661,67,Unspecified,DOR Literature Request
+662,8,BROOKLYN,Advocate-Property Value
+663,3,QUEENS,SRDE
+664,1,BRONX,Advocate-Business Tax
+665,33,STATEN ISLAND,Taxpayer Advocate Inquiry
+666,2,STATEN ISLAND,Advocate-Commercial Exemptions
+667,4,Unspecified,DOF Parking - Tax Exemption
+668,1,STATEN ISLAND,Advocate-Co-opCondo Abatement
+669,2,QUEENS,Interior Demo
+670,5,QUEENS,Advocate-Prop Class Incorrect
+671,9,BRONX,Cooling Tower
+672,39,MANHATTAN,Advocate-Co-opCondo Abatement
+673,14,STATEN ISLAND,SRDE
+674,29,Unspecified,Non-Residential Heat
+675,5,STATEN ISLAND,Advocate-Property Value
+676,2,MANHATTAN,Homebound Evacuation 4
+677,10,Unspecified,Noise - House of Worship
+678,2,MANHATTAN,Advocate - RPIE
+679,3,MANHATTAN,Rangehood
+680,9,STATEN ISLAND,Unlicensed Dog
+681,1,MANHATTAN,Public Assembly - Temporary
+682,3,MANHATTAN,Sprinkler - Mechanical
+683,4,BROOKLYN,No Child Left Behind
+684,5,STATEN ISLAND,X-Ray Machine/Equipment
+685,1,Unspecified,Adopt-A-Basket
+686,2,STATEN ISLAND,Home Care Provider Complaint
+687,6,MANHATTAN,VACANT APARTMENT
+688,1,BRONX,SG-99
+689,1,Unspecified,Posting Advertisement
+690,5,MANHATTAN,Advocate-SCRIE/DRIE
+691,1,BRONX,Advocate - RPIE
+692,1,BROOKLYN,Asbestos/Garbage Nuisance
+693,2,BROOKLYN,SRDE
+694,6,Unspecified,Indoor Sewage
+695,7,Unspecified,DOF Property - Property Value
+696,6,Unspecified,Municipal Parking Facility
+697,5,Unspecified,Select Message Type...
+698,1,BROOKLYN,Gas Station Discharge Lines
+699,1,BRONX,Building Condition
+700,3,BRONX,Advocate - Lien
+701,3,STATEN ISLAND,Foam Ban Enforcement
+702,5,QUEENS,Dispatched Taxi Complaint
+703,1,Unspecified,Misc. Comments'+(select*fro...
+704,1,Unspecified,Misc. Comments' and (select...
+705,1,Unspecified,hcvn1{{687*375}}gji51
+706,1,Unspecified,Misc. Comments|echo 3p7wexz...
+707,1,Unspecified,Misc. Comments'|echo y9v6fc...
+708,1,Unspecified,$(sleep 11)
+709,1,Unspecified,"""-->'-->`-->&..."
+710,1,Unspecified,%c0%ae/%c0%ae/%c0%ae/WEB-IN...
+711,1,Unspecified,%c0%ae/%c0%ae/%c0%ae/%c0%ae...
+712,1,Unspecified,DEP Street Condition
+713,4,BRONX,Green Taxi Complaint
+714,2,BRONX,DEP Sidewalk Condition
+715,2,STATEN ISLAND,Lost Property
+716,3,MANHATTAN,Single Occupancy Bathroom
+717,1,BROOKLYN,Green Taxi Report
+718,3,Unspecified,Graffiti
+719,1,BROOKLYN,Hazardous Material
+720,1,BRONX,SRDE
+721,1,QUEENS,Advocate-UBT
+722,1,BRONX,LEAD
+723,1,QUEENS,CST
+724,2,Unspecified,FCST
+725,2,Unspecified,Public Toilet
+726,2,BROOKLYN,Fire Alarm - Reinspection
+727,1,Unspecified,Misc. Comments47876391' or ...
+728,1,Unspecified,Misc. Comments'.sleep(20).'
+729,1,Unspecified,"<vlv xmlns=""http://..."
+730,1,Unspecified,Misc. Comments'+eval(compil...
+731,1,Unspecified,Misc. Comments&nslookup...
+732,1,Unspecified,Misc. Comments&ping -n ...
+733,1,Unspecified,%{4761*8506}
+734,1,STATEN ISLAND,Hazardous Material
+735,1,Unspecified,Recycling Enforcement
+736,2,QUEENS,SNW
+737,21,MANHATTAN,Building Condition
+738,15,Unspecified,Noise Survey
+739,17,STATEN ISLAND,Construction
+740,5,Unspecified,ATF
+741,3,QUEENS,NORC Complaint
+742,2,Unspecified,Plant
+743,13,STATEN ISLAND,Overflowing Recycling Baskets
+744,20,QUEENS,DOF Parking - Tax Exemption
+745,4,STATEN ISLAND,Bottled Water
+746,83,QUEENS,Advocate - Other
+747,9,BROOKLYN,Interior Demo
+748,8,STATEN ISLAND,Bereavement Support Group
+749,2,BROOKLYN,Advocate-UBT
+750,3,Unspecified,DRIE
+751,1,Unspecified,City Vehicle Placard Complaint
+752,58,QUEENS,LinkNYC
+753,178,QUEENS,FCST
+754,133,Unspecified,DOF Property - Request Copy
+755,1,BROOKLYN,Advocate - Levy
+756,6,Unspecified,Animal Facility - No Permit
+757,2,Unspecified,Poison Ivy
+758,10,Unspecified,Mosquitoes
+759,3,BRONX,Advocate-Property Value
+760,7,MANHATTAN,Advocate-Property Value
+761,1,QUEENS,Fire Alarm - New System
+762,3,Unspecified,Beach/Pool/Sauna Complaint
+763,5,BROOKLYN,Public Assembly
+764,12,MANHATTAN,Fire Alarm - Reinspection
+765,3,MANHATTAN,Fire Alarm - Modification
+766,3,BRONX,Rangehood
+767,4,Unspecified,Mold
+768,22,Unspecified,General
+769,12,STATEN ISLAND,Special Operations
+770,9,BRONX,Dispatched Taxi Complaint
+771,1,Unspecified,OEM Disabled Vehicle
+772,1,BROOKLYN,Standpipe - Mechanical
+773,1,BRONX,Trapping Pigeon
+774,3,MANHATTAN,AGENCY
+775,2,MANHATTAN,Advocate-Prop Class Incorrect
+776,1,BROOKLYN,FCST
+777,1,MANHATTAN,Injured Wildlife
+778,1,Unspecified,Bike Rack Condition
+779,1,MANHATTAN,Advocate - Lien
+780,5,MANHATTAN,Dispatched Taxi Complaint
+781,1,MANHATTAN,Gas Station Discharge Lines
+782,5,BROOKLYN,Fire Alarm - New System
+783,1,Unspecified,yw97y0gi2s
+784,1,Unspecified,"Misc. Comments""|echo 2..."
+785,1,Unspecified,file:///c:/windows/win.ini
+786,1,Unspecified,`sleep 11`
+787,1,Unspecified,"a'a'b""c>?>%}}%%..."
+788,1,Unspecified,../../../../WEB-INF/web.xml
+789,1,Unspecified,.../....///.../....///.../....
+790,1,Unspecified,Single Occupancy Bathroom
+791,3,BROOKLYN,Appliance
+792,1,MANHATTAN,FHV Licensee Complaint
+793,2,MANHATTAN,Ferry Complaint
+794,2,MANHATTAN,Ferry Inquiry
+795,6,Unspecified,Green Taxi Complaint
+796,1,BROOKLYN,Fire Alarm - Replacement
+797,1,BROOKLYN,FHV Licensee Complaint
+798,1,Unspecified,Unsanitary Animal Pvt Property
+799,2,QUEENS,Standpipe - Mechanical
+800,1,QUEENS,DOF Literature Request
+801,1,STATEN ISLAND,STRUCTURAL
+802,5,QUEENS,Advocate-SCRIE/DRIE
+803,1,QUEENS,DOF Parking - Request Copy
+804,3,BRONX,Advocate-Commercial Exemptions
+805,1,BROOKLYN,Advocate-Foreclosure
+806,1,Unspecified,Misc. Comments88909845' or ...
+807,1,Unspecified,Misc. Comments' waitfor del...
+808,1,Unspecified,Misc. Commentseowljujfh8
+809,1,Unspecified,Misc. Comments'+sleep(20.to...
+810,1,Unspecified,Misc. Comments%}dt2pq'/&quo...
+811,1,Unspecified,http://g7orz5h9iu2sh6z332rj...
+812,1,Unspecified,c:windowswin.ini
+813,1,Unspecified,Misc. Comments'|ping -c 21 ...
+814,1,Unspecified,.../..../..../..../.......
+815,2,Unspecified,Misc. Comments............
+816,1,Unspecified,/etc/passwd
+817,1,Unspecified,Misc. Comments]]>><
+818,1,Unspecified,.../...//.../...//.../...//...
+819,1,Unspecified,../../../WEB-INF/web.xml
+820,1,Unspecified,%{(#dm=@ognl.OgnlContext@DE...
+821,1,Unspecified,../../WEB-INF/web.xml;x=
+822,1,Unspecified,../../../WEB-INF/web.xml;x=
+823,2,Unspecified,Emergency Response Team (ERT)
+824,1,STATEN ISLAND,Single Occupancy Bathroom
+825,1,QUEENS,Appliance
+826,1,BRONX,Taxi Compliment
+827,1,BRONX,Advocate-Prop Class Incorrect
+828,1,Unspecified,nslookup -q=cname nneyfcxgy...
+829,1,Unspecified,eval(compile('for x in rang...
+830,1,Unspecified,"Misc. Comments'""`0&amp..."
+831,1,Unspecified,Misc. Comments|ping -c 21 1...
+832,1,Unspecified,..././..././..././..././......
+833,1,Unspecified,./validate_form.php
+834,1,Unspecified,*)(!(objectClass=*)
+835,1,Unspecified,g0oii1s4s5)(objectClass=*
+836,1,Unspecified,() { _; } >_
+837,1,Unspecified,../WEB-INF/web.xml;x=
+838,1,Unspecified,Cooling Tower
+839,1,MANHATTAN,DEP Sidewalk Condition
+840,1,QUEENS,Taxi Licensee Complaint
+841,1,STATEN ISLAND,Standpipe - Mechanical
+842,1,BRONX,SNW
+843,1,,Consumer Complaint
+844,1,STATEN ISLAND,Rangehood
+845,117409,QUEENS,Traffic Signal Condition
+846,15921,STATEN ISLAND,Noise
+847,88245,BRONX,Noise - Street/Sidewalk
+848,260335,MANHATTAN,HEAT/HOT WATER
+849,19550,BROOKLYN,Electronics Waste
+850,179128,BRONX,Street Light Condition
+851,152349,QUEENS,HEAT/HOT WATER
+852,25351,STATEN ISLAND,Blocked Driveway
+853,17538,QUEENS,GENERAL
+854,113956,Unspecified,Benefit Card Replacement
+855,179025,MANHATTAN,Noise - Street/Sidewalk
+856,25666,STATEN ISLAND,Request Large Bulky Item Collection
+857,61701,QUEENS,UNSANITARY CONDITION
+858,148593,BROOKLYN,UNSANITARY CONDITION
+859,6838,MANHATTAN,Snow
+860,305615,BROOKLYN,Illegal Parking
+861,136024,MANHATTAN,Noise - Commercial
+862,174086,QUEENS,Water System
+863,57161,BROOKLYN,Noise - Vehicle
+864,36092,BRONX,Sanitation Condition
+865,50993,STATEN ISLAND,Noise - Residential
+866,1364,Unspecified,For Hire Vehicle Complaint
+867,9231,QUEENS,For Hire Vehicle Complaint
+868,33791,STATEN ISLAND,Electronics Waste
+869,32738,MANHATTAN,Graffiti
+870,46030,BROOKLYN,GENERAL
+871,15727,MANHATTAN,Special Projects Inspection Team (SPIT)
+872,58333,STATEN ISLAND,Street Light Condition
+873,68857,BROOKLYN,DOOR/WINDOW
+874,67813,QUEENS,Derelict Vehicles
+875,6224,BROOKLYN,Unsanitary Animal Pvt Property
+876,30628,MANHATTAN,Air Quality
+877,14410,STATEN ISLAND,Rodent
+878,121917,QUEENS,Building/Use
+879,39225,MANHATTAN,Sidewalk Condition
+880,50759,STATEN ISLAND,Illegal Parking
+881,26332,STATEN ISLAND,Dirty Conditions
+882,14938,MANHATTAN,Emergency Response Team (ERT)
+883,5768,QUEENS,Electronics Waste
+884,1205,BRONX,DPR Internal
+885,43041,MANHATTAN,ELECTRIC
+886,46151,BRONX,General Construction/Plumbing
+887,6102,MANHATTAN,Litter Basket / Request
+888,10906,STATEN ISLAND,Derelict Vehicles
+889,67259,BROOKLYN,WATER LEAK
+890,30846,BRONX,Building/Use
+891,106548,BROOKLYN,Dirty Conditions
+892,20967,BROOKLYN,Other Enforcement
+893,29103,BRONX,Derelict Vehicles
+894,27967,MANHATTAN,Elevator
+895,4306,STATEN ISLAND,Other Enforcement
+896,1591,MANHATTAN,ELEVATOR
+897,5659,STATEN ISLAND,Water Conservation
+898,8529,BRONX,Food Establishment
+899,44184,BROOKLYN,Consumer Complaint
+900,17930,BRONX,Missed Collection (All Materials)
+901,2263,BRONX,Illegal Tree Damage
+902,22105,QUEENS,DOOR/WINDOW
+903,24469,BRONX,Damaged Tree
+904,115836,MANHATTAN,Water System
+905,5916,MANHATTAN,Street Sign - Missing
+906,20108,STATEN ISLAND,Sidewalk Condition
+907,21473,BROOKLYN,Lead
+908,18316,BRONX,Request Large Bulky Item Collection
+909,26542,STATEN ISLAND,General Construction/Plumbing
+910,1296,Unspecified,Forms
+911,5255,MANHATTAN,Illegal Tree Damage
+912,16666,STATEN ISLAND,Building/Use
+913,17190,MANHATTAN,Indoor Air Quality
+914,443,QUEENS,Day Care
+915,5193,BROOKLYN,Boilers
+916,5150,BROOKLYN,Derelict Bicycle
+917,23985,BROOKLYN,SCRIE
+918,14083,QUEENS,Plumbing
+919,34501,STATEN ISLAND,Damaged Tree
+920,1640,BRONX,Drug Activity
+921,5799,BRONX,Street Sign - Damaged
+922,5561,STATEN ISLAND,DOF Property - Payment Issue
+923,15984,BROOKLYN,DOF Property - Payment Issue
+924,5806,Unspecified,Maintenance or Facility
+925,2413,BROOKLYN,Sustainability Enforcement
+926,5078,Unspecified,Ferry Inquiry
+927,6078,BRONX,Street Sign - Missing
+928,17735,QUEENS,Dead/Dying Tree
+929,6532,BROOKLYN,BEST/Site Safety
+930,10360,MANHATTAN,Construction Safety Enforcement
+931,19471,BROOKLYN,DOF Property - Request Copy
+932,9231,MANHATTAN,Street Sign - Damaged
+933,793,QUEENS,DRIE
+934,7008,BRONX,Plumbing
+935,10829,BROOKLYN,Traffic
+936,18118,BROOKLYN,SAFETY
+937,32018,BRONX,Graffiti
+938,21734,MANHATTAN,DOF Property - Reduction Issue
+939,1850,STATEN ISLAND,BEST/Site Safety
+940,9484,Unspecified,DOF Parking - Request Copy
+941,3368,STATEN ISLAND,WATER LEAK
+942,2456,MANHATTAN,Recycling Enforcement
+943,1481,BROOKLYN,Drug Activity
+944,4093,STATEN ISLAND,DOOR/WINDOW
+945,2446,MANHATTAN,Building Marshals office
+946,2630,BRONX,Construction Safety Enforcement
+947,155,MANHATTAN,Unsanitary Animal Facility
+948,2827,Unspecified,SCRIE
+949,67,Unspecified,Bus Stop Shelter Complaint
+950,43,QUEENS,Special Operations
+951,168,BRONX,DOF Property - Property Value
+952,423,BROOKLYN,Panhandling
+953,3725,QUEENS,Violation of Park Rules
+954,4205,MANHATTAN,DPR Internal
+955,203,MANHATTAN,Tattooing
+956,5545,MANHATTAN,Noise - Helicopter
+957,6055,MANHATTAN,Smoking
+958,11718,BROOKLYN,Noise - Park
+959,1055,BRONX,DRIE
+960,981,BROOKLYN,Bike/Roller/Skate Chronic
+961,3095,BROOKLYN,Non-Residential Heat
+962,203,Unspecified,Overgrown Tree/Branches
+963,4486,STATEN ISLAND,Noise - Vehicle
+964,9064,BRONX,Root/Sewer/Sidewalk Condition
+965,1184,STATEN ISLAND,SAFETY
+966,1768,BRONX,Indoor Sewage
+967,3084,STATEN ISLAND,Curb Condition
+968,2598,MANHATTAN,Industrial Waste
+969,2304,BRONX,Emergency Response Team (ERT)
+970,1805,STATEN ISLAND,Traffic
+971,2651,Unspecified,Blocked Driveway
+972,2546,QUEENS,Unleashed Dog
+973,2066,MANHATTAN,Noise - House of Worship
+974,1435,MANHATTAN,OUTSIDE BUILDING
+975,8029,QUEENS,Traffic
+976,3535,BROOKLYN,Violation of Park Rules
+977,1201,QUEENS,Derelict Bicycle
+978,215,BRONX,Tattooing
+979,1555,MANHATTAN,Root/Sewer/Sidewalk Condition
+980,947,STATEN ISLAND,Construction Safety Enforcement
+981,449,Unspecified,Sidewalk Condition
+982,116,BROOKLYN,Advocate-Prop Refunds/Credits
+983,1697,BRONX,Water Quality
+984,85,Unspecified,Highway Sign - Missing
+985,1720,MANHATTAN,Indoor Sewage
+986,566,Unspecified,Animal in a Park
+987,28,Unspecified,Home Delivered Meal - Missed Delivery
+988,15,QUEENS,Foam Ban Enforcement
+989,3866,STATEN ISLAND,Street Sign - Missing
+990,1208,QUEENS,Drug Activity
+991,1815,BROOKLYN,Unsanitary Condition
+992,275,BRONX,For Hire Vehicle Report
+993,1185,STATEN ISLAND,Emergency Response Team (ERT)
+994,1100,MANHATTAN,Scaffold Safety
+995,38,STATEN ISLAND,DRIE
+996,7417,STATEN ISLAND,DOF Property - Owner Issue
+997,149,QUEENS,Advocate-Prop Refunds/Credits
+998,247,STATEN ISLAND,DOF Property - Property Value
+999,21,Unspecified,Taxi Licensee Complaint
+1000,1836,BRONX,Non-Residential Heat
+1001,34,Unspecified,Mobile Food Vendor
+1002,905,STATEN ISLAND,School Maintenance
+1003,445,BROOKLYN,Facades
+1004,1044,BRONX,Noise - House of Worship
+1005,3213,MANHATTAN,Drinking
+1006,864,MANHATTAN,Senior Center Complaint
+1007,2005,Unspecified,Noise - Street/Sidewalk
+1008,134,STATEN ISLAND,Noise - House of Worship
+1009,2209,BRONX,Drinking
+1010,472,QUEENS,Executive Inspections
+1011,70,STATEN ISLAND,Advocate-Prop Refunds/Credits
+1012,222,Unspecified,Non-Emergency Police Matter
+1013,1440,QUEENS,Sweeping/Missed
+1014,84,Unspecified,Root/Sewer/Sidewalk Condition
+1015,70,STATEN ISLAND,Drinking Water
+1016,633,QUEENS,Bus Stop Shelter Placement
+1017,174,BROOKLYN,Illegal Animal Sold
+1018,1484,BRONX,Miscellaneous Categories
+1019,29,STATEN ISLAND,FATF
+1020,197,MANHATTAN,Home Delivered Meal Complaint
+1021,54,STATEN ISLAND,Animal Facility - No Permit
+1022,391,BROOKLYN,Executive Inspections
+1023,615,STATEN ISLAND,Violation of Park Rules
+1024,663,BROOKLYN,Bus Stop Shelter Placement
+1025,50,STATEN ISLAND,For Hire Vehicle Report
+1026,328,Unspecified,Senior Center Complaint
+1027,340,BRONX,General
+1028,739,QUEENS,Unsanitary Condition
+1029,13,BROOKLYN,Foam Ban Enforcement
+1030,716,BROOKLYN,Mosquitoes
+1031,33,BRONX,Public Toilet
+1032,361,QUEENS,Panhandling
+1033,1291,BROOKLYN,Window Guard
+1034,460,STATEN ISLAND,Homeless Encampment
+1035,57,Unspecified,Vending
+1036,606,STATEN ISLAND,Homeless Person Assistance
+1037,544,QUEENS,Harboring Bees/Wasps
+1038,1120,BROOKLYN,Disorderly Youth
+1039,465,STATEN ISLAND,Poison Ivy
+1040,286,STATEN ISLAND,Mosquitoes
+1041,59,Unspecified,Housing - Low Income Senior
+1042,626,STATEN ISLAND,DPR Internal
+1043,200,BROOKLYN,Poison Ivy
+1044,81,Unspecified,Sewer
+1045,58,BRONX,Quality of Life
+1046,521,MANHATTAN,Illegal Fireworks
+1047,457,STATEN ISLAND,Noise - Park
+1048,193,BRONX,Poison Ivy
+1049,209,MANHATTAN,Sweeping/Inadequate
+1050,433,STATEN ISLAND,Disorderly Youth
+1051,26,STATEN ISLAND,General
+1052,224,STATEN ISLAND,Noise - Helicopter
+1053,61,MANHATTAN,Municipal Parking Facility
+1054,2,STATEN ISLAND,Outside Building
+1055,338,BROOKLYN,Safety
+1056,152,BROOKLYN,Lost Property
+1057,299,STATEN ISLAND,Beach/Pool/Sauna Complaint
+1058,43,BRONX,FATF
+1059,80,BROOKLYN,Home Care Provider Complaint
+1060,899,STATEN ISLAND,Abandoned Vehicle
+1061,1,Unspecified,Misc. Comments'
+1062,1,Unspecified,Misc. Comments69075347' or ...
+1063,1,Unspecified,......................
+1064,4,Unspecified,../../../../../../../../../...
+1065,3,Unspecified,Misc. Comments../../../../....
+1066,1,Unspecified,idexf3mrb7)(!(objectClass=*)
+1067,1,Unspecified,Misc. Comments>  BCC:bl0...
+1068,352,QUEENS,Animal-Abuse
+1069,1143,QUEENS,Mosquitoes
+1070,16,STATEN ISLAND,Taxi Report
+1071,830,QUEENS,Disorderly Youth
+1072,3,QUEENS,Green Taxi Report
+1073,13,Unspecified,Public Payphone Complaint
+1074,17,Unspecified,LinkNYC
+1075,29,Unspecified,Smoking
+1076,660,BRONX,Recycling Enforcement
+1077,19,QUEENS,Single Occupancy Bathroom
+1078,2,Unspecified,Green Taxi Report
+1079,30,MANHATTAN,Squeegee
+1080,23,BROOKLYN,X-Ray Machine/Equipment
+1081,4370,MANHATTAN,Highway Condition
+1082,6118,BRONX,Highway Condition
+1083,1,BROOKLYN,Taxi Compliment
+1084,282916,Unspecified,HEATING
+1085,132296,Unspecified,PLUMBING
+1086,17324,Unspecified,APPLIANCE
+1087,195284,BRONX,HEATING
+1088,14265,BROOKLYN,Dead Tree
+1089,864,QUEENS,Bridge Condition
+1090,1138,BROOKLYN,Home Repair
+1091,8672,BRONX,DHS Advantage -Landlord/Broker
+1092,489,Unspecified,DOF Parking - Address Update
+1093,2692,STATEN ISLAND,DHS Advantage -Landlord/Broker
+1094,76,STATEN ISLAND,City Vehicle Placard Complaint
+1095,211,MANHATTAN,DOF Property - City Rebate
+1096,546,QUEENS,City Vehicle Placard Complaint
+1097,325,BROOKLYN,DOF Property - City Rebate
+1098,1212,MANHATTAN,DHS Advantage - Tenant
+1099,251,MANHATTAN,DHS Advantage -Landlord/Broker
+1100,108,BRONX,Discipline and Suspension
+1101,67,QUEENS,Discipline and Suspension
+1102,1102,MANHATTAN,Elder Abuse
+1103,5070,BRONX,Dead Tree
+1104,27667,QUEENS,PAINT - PLASTER
+1105,38,BRONX,Registration and Transfers
+1106,704,BROOKLYN,City Vehicle Placard Complaint
+1107,50599,BRONX,NONCONST
+1108,2,MANHATTAN,DOF Parking - Payment Issue
+1109,72,MANHATTAN,DHS Advantage - Third Party
+1110,146,BRONX,Eviction
+1111,325,QUEENS,Utility Program
+1112,9,Unspecified,Eviction
+1113,64,QUEENS,Highway Sign - Dangling
+1114,93,BRONX,Teaching/Learning/Instruction
+1115,8,MANHATTAN,Parent Leadership
+1116,22,MANHATTAN,Health
+1117,161,MANHATTAN,Stalled Sites
+1118,881,BRONX,Elder Abuse
+1119,58,BRONX,Stalled Sites
+1120,62,MANHATTAN,Discipline and Suspension
+1121,6,Unspecified,Weatherization
+1122,36,BRONX,Health
+1123,169,Unspecified,Noise
+1124,2,BRONX,Portable Toilet
+1125,32,MANHATTAN,Legal Services Provider Complaint
+1126,57,MANHATTAN,Highway Sign - Missing
+1127,193,MANHATTAN,Plant
+1128,22,Unspecified,Overflowing Litter Baskets
+1129,37,BROOKLYN,Bottled Water
+1130,6015,STATEN ISLAND,HEATING
+1131,1514,STATEN ISLAND,Posting Advertisement
+1132,7,STATEN ISLAND,Registration and Transfers
+1133,88,MANHATTAN,Tunnel Condition
+1134,85,STATEN ISLAND,Window Guard
+1135,127,BROOKLYN,Summer Camp
+1136,44,MANHATTAN,FHE
+1137,160,BRONX,Highway Sign - Damaged
+1138,286,BROOKLYN,Forensic Engineering
+1139,47,QUEENS,Home Care Provider Complaint
+1140,4,STATEN ISLAND,No Child Left Behind
+1141,37,BROOKLYN,Transportation Provider Complaint
+1142,14,Unspecified,Discipline and Suspension
+1143,678,QUEENS,OEM Disabled Vehicle
+1144,979,BROOKLYN,OEM Disabled Vehicle
+1145,123,STATEN ISLAND,OEM Disabled Vehicle
+1146,94392,BROOKLYN,PAINT - PLASTER
+1147,498,QUEENS,CONSTRUCTION
+1148,1444,BROOKLYN,CONSTRUCTION
+1149,27,QUEENS,X-Ray Machine/Equipment
+1150,60,BROOKLYN,Highway Sign - Dangling
+1151,4439,BROOKLYN,Noise Survey
+1152,2866,QUEENS,Noise Survey
+1153,668,STATEN ISLAND,Noise Survey
+1154,141,BROOKLYN,Adopt-A-Basket
+1155,16,STATEN ISLAND,Home Delivered Meal Complaint
+1156,209,MANHATTAN,Construction
+1157,94,MANHATTAN,ATF
+1158,58,STATEN ISLAND,ATF
+1159,53,BRONX,ATF
+1160,1,MANHATTAN,Benefit Card Replacement
+1161,5,STATEN ISLAND,Case Management Agency Complaint
+1162,518,QUEENS,Forensic Engineering
+1163,39,BRONX,Illegal Animal Sold
+1164,7,STATEN ISLAND,DOF Parking - Tax Exemption
+1165,20,STATEN ISLAND,Illegal Animal Sold
+1166,21,QUEENS,Transportation Provider Complaint
+1167,4,QUEENS,STRUCTURAL
+1168,169,BRONX,Request Xmas Tree Collection
+1169,462,STATEN ISLAND,Request Xmas Tree Collection
+1170,121,MANHATTAN,Request Xmas Tree Collection
+1171,10,QUEENS,Tanning
+1172,8,STATEN ISLAND,Lifeguard
+1173,8,MANHATTAN,NORC Complaint
+1174,9,STATEN ISLAND,Tanning
+1175,3,BRONX,AGENCY
+1176,1,Unspecified,Broken Muni Meter
+1177,1,BROOKLYN,Advocate-Prop Class Incorrect
+1178,3,MANHATTAN,Dept of Investigations
+1179,17,QUEENS,Advocate-Property Value
+1180,6,BROOKLYN,Advocate-Commercial Exemptions
+1181,2,QUEENS,VACANT APARTMENT
+1182,4,QUEENS,Advocate-Commercial Exemptions
+1183,2,Unspecified,DOF Property - RPIE Issue
+1184,7,Unspecified,Advocate-Personal Exemptions
+1185,10,Unspecified,Unleashed Dog
+1186,19,Unspecified,Tunnel Condition
+1187,1,BROOKLYN,Fire Alarm - Modification
+1188,2,BROOKLYN,Hazmat Storage/Use
+1189,3,MANHATTAN,Fire Alarm - New System
+1190,2,QUEENS,Rangehood
+1191,4,Unspecified,Illegal Animal Sold
+1192,1,MANHATTAN,Water Maintenance
+1193,3,QUEENS,No Child Left Behind
+1194,1,STATEN ISLAND,Parent Leadership
+1195,6,BRONX,DOF Parking - Tax Exemption
+1196,2,Unspecified,NORC Complaint
+1197,2,MANHATTAN,Advocate-UBT
+1198,2,STATEN ISLAND,Transportation Provider Complaint
+1199,2,Unspecified,Special Natural Area District (SNAD)
+1200,1,STATEN ISLAND,Advocate-SCRIE/DRIE
+1201,5,BRONX,Advocate-Co-opCondo Abatement
+1202,3,BROOKLYN,Advocate - Lien
+1203,6,BRONX,Radioactive Material
+1204,2,Unspecified,Industrial Waste
+1205,2,STATEN ISLAND,Advocate-Business Tax
+1206,5,BROOKLYN,Tanning
+1207,1,Unspecified,Misc. Comments);declare @q ...
+1208,1,Unspecified,Misc. Comments'(select*from...
+1209,1,Unspecified,"Misc. Comments"""
+1210,1,Unspecified,Misc. Comments' and 7702=77...
+1211,1,Unspecified,Misc. Comments|nslookup -q=...
+1212,1,Unspecified,"Misc. Comments""|ping -..."
+1213,2,Unspecified,file:///etc/passwd
+1214,1,Unspecified,@(9313*3464)
+1215,1,Unspecified,%c0%ae/WEB-INF/web.xml
+1216,3,BRONX,DEP Street Condition
+1217,1,QUEENS,DOF Property - State Rebate
+1218,1,QUEENS,Water Maintenance
+1219,1,STATEN ISLAND,NORC Complaint
+1220,1,BROOKLYN,AGENCY
+1221,1,BROOKLYN,Advocate-Business Tax
+1222,1,Unspecified,Unsanitary Animal Facility
+1223,3,Unspecified,Illegal Animal Kept as Pet
+1224,5,Unspecified,General Question
+1225,1,Unspecified,HEAT/HOT WATER
+1226,1,STATEN ISLAND,Advocate - Levy
+1227,1,QUEENS,Advocate-Business Tax
+1228,1,Unspecified,(select load_file('\\615h...
+1229,1,Unspecified,Misc. Comments52038737' or ...
+1230,1,Unspecified,Misc. Comments' and '1618'=...
+1231,1,Unspecified,Misc. Comments' and 6049=60...
+1232,1,Unspecified,Misc. Comments}}t2v95'/&quo...
+1233,1,Unspecified,266dyrgvhg1egsyp2oq57axbm2s...
+1234,1,Unspecified,Misc. Comments|ping -n 21 1...
+1235,1,Unspecified,() { :;}; /bin/sleep 11
+1236,1,Unspecified,${3804*3137}
+1237,1,Unspecified,../WEB-INF/web.xml
+1238,5,QUEENS,Taxi Compliment
+1239,1,MANHATTAN,Water Leak
+1240,1,QUEENS,Ferry Complaint
+1241,1,Unspecified,Misc. Comments  BCC:a5glxzf...
+1242,1,BROOKLYN,Employee Behavior
+1243,1,BROOKLYN,DSNY Spillage
+1244,1,STATEN ISLAND,DSNY Spillage
+1245,1,BRONX,Internal Code
+1246,1,BROOKLYN,DOF Parking - Request Status
+1247,2,BRONX,No Child Left Behind
+1248,1,Unspecified,Meals Home Delivery Required
+1249,1,STATEN ISLAND,Cooling Tower
+1250,1,MANHATTAN,Illegal Animal - Sold/Kept
+1251,1,MANHATTAN,Open Flame Permit
+1252,1,BROOKLYN,Dispatched Taxi Complaint
+1253,130084,QUEENS,Request Large Bulky Item Collection
+1254,515253,BROOKLYN,Noise - Residential
+1255,6117,BRONX,Indoor Air Quality
+1256,5994,BRONX,Air Quality
+1257,115593,BROOKLYN,Sanitation Condition
+1258,119357,BROOKLYN,Request Large Bulky Item Collection
+1259,109346,MANHATTAN,PLUMBING
+1260,254413,QUEENS,Illegal Parking
+1261,90551,MANHATTAN,Traffic Signal Condition
+1262,83795,BROOKLYN,Derelict Vehicles
+1263,165460,MANHATTAN,Street Condition
+1264,26268,BRONX,Noise
+1265,114137,BRONX,Water System
+1266,109592,MANHATTAN,Taxi Complaint
+1267,44243,QUEENS,Noise - Street/Sidewalk
+1268,23722,MANHATTAN,Blocked Driveway
+1269,117512,BROOKLYN,Noise
+1270,1067,STATEN ISLAND,Water Quality
+1271,26137,BRONX,Noise - Commercial
+1272,20679,QUEENS,WATER LEAK
+1273,7034,STATEN ISLAND,Noise - Commercial
+1274,120051,BROOKLYN,Noise - Street/Sidewalk
+1275,13083,BROOKLYN,Emergency Response Team (ERT)
+1276,246103,BROOKLYN,Street Light Condition
+1277,45924,QUEENS,Rodent
+1278,87687,BROOKLYN,Rodent
+1279,1026,QUEENS,ELEVATOR
+1280,23410,QUEENS,Taxi Complaint
+1281,4161,BROOKLYN,Noise - House of Worship
+1282,64332,BROOKLYN,New Tree Request
+1283,118421,STATEN ISLAND,Street Condition
+1284,11368,STATEN ISLAND,HEAT/HOT WATER
+1285,44500,STATEN ISLAND,Missed Collection (All Materials)
+1286,3286,BRONX,Smoking
+1287,8224,QUEENS,Emergency Response Team (ERT)
+1288,76884,BROOKLYN,Building/Use
+1289,392,MANHATTAN,LinkNYC
+1290,8202,QUEENS,SAFETY
+1291,107176,QUEENS,Dirty Conditions
+1292,53998,STATEN ISLAND,Water System
+1293,13663,BROOKLYN,Homeless Person Assistance
+1294,26079,BROOKLYN,Elevator
+1295,19647,MANHATTAN,Missed Collection (All Materials)
+1296,6235,MANHATTAN,Derelict Vehicle
+1297,23804,MANHATTAN,Vending
+1298,28583,STATEN ISLAND,Sanitation Condition
+1299,108142,BRONX,Street Condition
+1300,12643,BROOKLYN,For Hire Vehicle Complaint
+1301,79892,BROOKLYN,Damaged Tree
+1302,20975,BROOKLYN,Food Establishment
+1303,25408,BROOKLYN,Root/Sewer/Sidewalk Condition
+1304,43770,BRONX,FLOORING/STAIRS
+1305,70171,MANHATTAN,PAINT/PLASTER
+1306,126555,QUEENS,Damaged Tree
+1307,24518,BRONX,Derelict Vehicle
+1308,3882,MANHATTAN,Street Sign - Dangling
+1309,1165,MANHATTAN,Mobile Food Vendor
+1310,1691,BRONX,ELEVATOR
+1311,41523,QUEENS,Consumer Complaint
+1312,35843,BRONX,Sewer
+1313,925,BROOKLYN,Mold
+1314,11481,MANHATTAN,Food Poisoning
+1315,2432,STATEN ISLAND,Air Quality
+1316,14571,QUEENS,Curb Condition
+1317,17990,QUEENS,Food Establishment
+1318,6285,Unspecified,Consumer Complaint
+1319,254,BRONX,Noise - Helicopter
+1320,6266,QUEENS,Construction Safety Enforcement
+1321,7038,MANHATTAN,Asbestos
+1322,10396,BROOKLYN,Water Conservation
+1323,15543,BROOKLYN,Plumbing
+1324,1940,QUEENS,Borough Office
+1325,10679,STATEN ISLAND,DOF Property - Reduction Issue
+1326,6895,MANHATTAN,DOF Parking - Tax Exemption
+1327,276431,QUEENS,Street Light Condition
+1328,3970,QUEENS,Homeless Encampment
+1329,2407,QUEENS,Non-Residential Heat
+1330,6625,MANHATTAN,Hazardous Materials
+1331,4285,QUEENS,Industrial Waste
+1332,11016,BROOKLYN,Construction Safety Enforcement
+1333,25343,BRONX,Sidewalk Condition
+1334,7323,QUEENS,Homeless Person Assistance
+1335,7904,MANHATTAN,Electrical
+1336,21490,QUEENS,DOF Property - Owner Issue
+1337,7929,QUEENS,DOF Property - Update Account
+1338,503,BRONX,Building Marshals office
+1339,11609,BRONX,DOF Property - Reduction Issue
+1340,52831,Unspecified,HPD Literature Request
+1341,10012,BROOKLYN,Litter Basket / Request
+1342,400,QUEENS,Sweeping/Inadequate
+1343,1552,QUEENS,Sustainability Enforcement
+1344,3874,BROOKLYN,Borough Office
+1345,1153,STATEN ISLAND,Overflowing Litter Baskets
+1346,2023,BROOKLYN,ELEVATOR
+1347,696,BROOKLYN,Day Care
+1348,14449,BRONX,Maintenance or Facility
+1349,4810,BROOKLYN,School Maintenance
+1350,1640,MANHATTAN,Unsanitary Pigeon Condition
+1351,32681,MANHATTAN,Sewer
+1352,6259,MANHATTAN,DOF Property - Request Copy
+1353,2474,MANHATTAN,DOF Property - Update Account
+1354,5140,Unspecified,Taxi Complaint
+1355,8075,MANHATTAN,Housing - Low Income Senior
+1356,2605,BROOKLYN,Elder Abuse
+1357,246,STATEN ISLAND,OUTSIDE BUILDING
+1358,2697,BROOKLYN,Recycling Enforcement
+1359,18666,BROOKLYN,DOF Property - Owner Issue
+1360,583,MANHATTAN,Quality of Life
+1361,2233,MANHATTAN,Investigations and Discipline (IAD)
+1362,1084,BROOKLYN,DRIE
+1363,6356,BRONX,For Hire Vehicle Complaint
+1364,4061,STATEN ISLAND,Street Sign - Damaged
+1365,2572,Unspecified,Housing Options
+1366,12460,BROOKLYN,Indoor Air Quality
+1367,1546,BRONX,OUTSIDE BUILDING
+1368,957,STATEN ISLAND,Drinking
+1369,1991,Unspecified,DOF Parking - DMV Clearance
+1370,4,BRONX,Squeegee
+1371,6187,STATEN ISLAND,Maintenance or Facility
+1372,275,MANHATTAN,DOF Property - Property Value
+1373,934,STATEN ISLAND,For Hire Vehicle Complaint
+1374,3688,QUEENS,Drinking
+1375,8907,BRONX,Non-Emergency Police Matter
+1376,874,BRONX,Investigations and Discipline (IAD)
+1377,207,BRONX,Sweeping/Inadequate
+1378,3080,STATEN ISLAND,Plumbing
+1379,128,STATEN ISLAND,Advocate-Personal Exemptions
+1380,65,MANHATTAN,Special Operations
+1381,6275,MANHATTAN,Animal in a Park
+1382,5616,Unspecified,Taxi Compliment
+1383,1081,BROOKLYN,Sweeping/Inadequate
+1384,1045,MANHATTAN,Vacant Lot
+1385,500,Unspecified,Broken Parking Meter
+1386,1417,MANHATTAN,Cranes and Derricks
+1387,473,QUEENS,Beach/Pool/Sauna Complaint
+1388,4227,Unspecified,Traffic Signal Condition
+1389,3403,QUEENS,Housing Options
+1390,2335,BRONX,Asbestos
+1391,270,MANHATTAN,Day Care
+1392,5583,MANHATTAN,Overgrown Tree/Branches
+1393,2125,QUEENS,Recycling Enforcement
+1394,1829,BRONX,Special Projects Inspection Team (SPIT)
+1395,1355,BRONX,Overflowing Litter Baskets
+1396,22,Unspecified,Animal-Abuse
+1397,1580,MANHATTAN,Urinating in Public
+1398,3051,MANHATTAN,Public Payphone Complaint
+1399,3130,BROOKLYN,Noise - Helicopter
+1400,243,BROOKLYN,Home Delivered Meal Complaint
+1401,675,BROOKLYN,Scaffold Safety
+1402,657,QUEENS,Mold
+1403,194,STATEN ISLAND,Drug Activity
+1404,2743,MANHATTAN,Overflowing Litter Baskets
+1405,4092,BROOKLYN,Industrial Waste
+1406,56,MANHATTAN,Taxpayer Advocate Inquiry
+1407,614,BROOKLYN,Posting Advertisement
+1408,1145,STATEN ISLAND,Food Poisoning
+1409,548,STATEN ISLAND,Indoor Sewage
+1410,2802,BRONX,Vacant Lot
+1411,624,QUEENS,For Hire Vehicle Report
+1412,3315,STATEN ISLAND,Food Establishment
+1413,923,STATEN ISLAND,SCRIE
+1414,68,MANHATTAN,Advocate - Other
+1415,479,BRONX,Senior Center Complaint
+1416,460,MANHATTAN,Alzheimer's Care
+1417,1520,STATEN ISLAND,Elevator
+1418,26,STATEN ISLAND,Advocate - Other
+1419,375,Unspecified,Traffic
+1420,576,QUEENS,Plant
+1421,2555,STATEN ISLAND,Graffiti
+1422,38,BRONX,LinkNYC
+1423,3167,BROOKLYN,Drinking
+1424,285,BROOKLYN,Drinking Water
+1425,1859,STATEN ISLAND,Illegal Tree Damage
+1426,987,MANHATTAN,Sweeping/Missed
+1427,75,STATEN ISLAND,Day Care
+1428,2035,QUEENS,Noise - House of Worship
+1429,5045,BROOKLYN,Miscellaneous Categories
+1430,202,QUEENS,Animal Facility - No Permit
+1431,494,STATEN ISLAND,Recycling Enforcement
+1432,55,MANHATTAN,Advocate-Personal Exemptions
+1433,1502,BROOKLYN,Plant
+1434,5311,QUEENS,Miscellaneous Categories
+1435,495,BROOKLYN,Bike Rack Condition
+1436,172,BROOKLYN,Animal Facility - No Permit
+1437,288,BRONX,Scaffold Safety
+1438,609,STATEN ISLAND,Investigations and Discipline (IAD)
+1439,1266,BROOKLYN,Taxi Report
+1440,15,Unspecified,Bus Stop Shelter Placement
+1441,546,STATEN ISLAND,Smoking
+1442,59,BROOKLYN,FATF
+1443,673,MANHATTAN,Collection Truck Noise
+1444,8746,Unspecified,OEM Literature Request
+1445,75,MANHATTAN,Pet Shop
+1446,46,BRONX,Special Natural Area District (SNAD)
+1447,2932,MANHATTAN,Standing Water
+1448,686,BRONX,Unsanitary Pigeon Condition
+1449,18,Unspecified,Unsanitary Condition
+1450,171,BROOKLYN,Municipal Parking Facility
+1451,6,QUEENS,Advocate - Lien
+1452,380,BROOKLYN,General
+1453,144,BROOKLYN,Public Toilet
+1454,105,MANHATTAN,Harboring Bees/Wasps
+1455,173,BRONX,Municipal Parking Facility
+1456,409,QUEENS,Collection Truck Noise
+1457,3,QUEENS,Advocate - RPIE
+1458,80,STATEN ISLAND,Cranes and Derricks
+1459,152,BRONX,Home Delivered Meal - Missed Delivery
+1460,58,BRONX,Plant
+1461,443,QUEENS,Poison Ivy
+1462,1263,Unspecified,Water System
+1463,28,Unspecified,Panhandling
+1464,121,QUEENS,General
+1465,848,BROOKLYN,Illegal Fireworks
+1466,66,BRONX,Pet Shop
+1467,1,BROOKLYN,Outside Building
+1468,723,QUEENS,Illegal Fireworks
+1469,398,BRONX,Illegal Fireworks
+1470,170,STATEN ISLAND,Plant
+1471,166,QUEENS,Safety
+1472,304,MANHATTAN,Home Delivered Meal - Missed Delivery
+1473,316,Unspecified,Alzheimer's Care
+1474,1582,QUEENS,Sweeping/Missed-Inadequate
+1475,4264,QUEENS,Abandoned Vehicle
+1476,1,Unspecified,"Misc. Comments,(select*from..."
+1477,1,Unspecified,Misc. Commentso0w3r%>xb6...
+1478,1,Unspecified,*)(objectClass=*
+1479,1,Unspecified,Misc. Comments'+(function()...
+1480,2119,BROOKLYN,Abandoned Vehicle
+1481,111,STATEN ISLAND,Animal-Abuse
+1482,18,Unspecified,Noise - Helicopter
+1483,254,STATEN ISLAND,Illegal Fireworks
+1484,93,QUEENS,Missed Collection
+1485,122,BROOKLYN,Missed Collection
+1486,253,MANHATTAN,Illegal Animal Kept as Pet
+1487,264,QUEENS,DEP Street Condition
+1488,7,Unspecified,Derelict Bicycle
+1489,1,MANHATTAN,Green Taxi Report
+1490,9,BRONX,Unlicensed Dog
+1491,3036,STATEN ISLAND,Highway Condition
+1492,1,BROOKLYN,Request Changes - A.S.P.
+1493,260,BRONX,Cranes and Derricks
+1494,7,Unspecified,Special Projects Inspection Team (SPIT)
+1495,14,QUEENS,Green Taxi Complaint
+1496,15130,QUEENS,Highway Condition
+1497,21,BROOKLYN,Green Taxi Complaint
+1498,6789,BROOKLYN,Highway Condition
+1499,7,Unspecified,Urinating in Public
+1500,110072,Unspecified,PAINT - PLASTER
+1501,150277,Unspecified,GENERAL CONSTRUCTION
+1502,1526,Unspecified,CONSTRUCTION
+1503,45601,Unspecified,ELECTRIC
+1504,1646,BROOKLYN,Bridge Condition
+1505,3996,QUEENS,Traffic/Illegal Parking
+1506,4228,BROOKLYN,Traffic/Illegal Parking
+1507,136,Unspecified,Snow
+1508,2462,STATEN ISLAND,Broken Muni Meter
+1509,16660,BRONX,DHS Advantage - Tenant
+1510,2631,STATEN ISLAND,DHS Advantage - Tenant
+1511,383,Unspecified,Parking Card
+1512,170,BRONX,Weatherization
+1513,39,QUEENS,Health
+1514,12682,BRONX,Broken Muni Meter
+1515,39,BROOKLYN,Health
+1516,211,MANHATTAN,Utility Program
+1517,473,BRONX,DHS Advantage - Third Party
+1518,30780,BROOKLYN,Broken Muni Meter
+1519,48,BROOKLYN,Registration and Transfers
+1520,24,Unspecified,HEAP Assistance
+1521,161,QUEENS,Stalled Sites
+1522,38,STATEN ISLAND,Tattooing
+1523,280,Unspecified,Vacant Lot
+1524,562,BRONX,Public Payphone Complaint
+1525,190325,BROOKLYN,HEATING
+1526,206,STATEN ISLAND,Elder Abuse
+1527,103,BROOKLYN,Teaching/Learning/Instruction
+1528,19,BRONX,Parent Leadership
+1529,236,QUEENS,Municipal Parking Facility
+1530,5005,MANHATTAN,Dead Tree
+1531,134,BRONX,Unsanitary Animal Facility
+1532,31,MANHATTAN,Weatherization
+1533,16,STATEN ISLAND,Health
+1534,322,BROOKLYN,Stalled Sites
+1535,66,QUEENS,Bereavement Support Group
+1536,55,MANHATTAN,Teaching/Learning/Instruction
+1537,1211,QUEENS,Elder Abuse
+1538,112,STATEN ISLAND,DOF Property - City Rebate
+1539,77,BRONX,Adopt-A-Basket
+1540,4,Unspecified,Collection Truck Noise
+1541,63,Unspecified,Found Property
+1542,125,QUEENS,Adopt-A-Basket
+1543,11,QUEENS,Parent Leadership
+1544,5,BROOKLYN,Portable Toilet
+1545,88,BRONX,Home Delivered Meal Complaint
+1546,11,BRONX,Legal Services Provider Complaint
+1547,134,BROOKLYN,Highway Sign - Damaged
+1548,23,Unspecified,Sweeping/Missed-Inadequate
+1549,18,Unspecified,Utility Program
+1550,28,QUEENS,Legal Services Provider Complaint
+1551,10,STATEN ISLAND,Eviction
+1552,11,MANHATTAN,Trans Fat
+1553,621,MANHATTAN,CONSTRUCTION
+1554,40302,QUEENS,GENERAL CONSTRUCTION
+1555,3905,STATEN ISLAND,NONCONST
+1556,1,MANHATTAN,Trapping Pigeon
+1557,19,STATEN ISLAND,Home Delivered Meal - Missed Delivery
+1558,4232,STATEN ISLAND,PAINT - PLASTER
+1559,79,BROOKLYN,Case Management Agency Complaint
+1560,15,STATEN ISLAND,Discipline and Suspension
+1561,25,BRONX,Bereavement Support Group
+1562,104,STATEN ISLAND,Senior Center Complaint
+1563,17,QUEENS,FHE
+1564,44,STATEN ISLAND,Highway Sign - Damaged
+1565,36,STATEN ISLAND,Highway Sign - Missing
+1566,24833,QUEENS,NONCONST
+1567,70018,BROOKLYN,NONCONST
+1568,30,Unspecified,Home Care Provider Complaint
+1569,46,QUEENS,Bottled Water
+1570,56,Unspecified,Bereavement Support Group
+1571,24,Unspecified,Other Enforcement
+1572,12,BROOKLYN,Parent Leadership
+1573,41,STATEN ISLAND,Adopt-A-Basket
+1574,60,BROOKLYN,Legal Services Provider Complaint
+1575,91,MANHATTAN,Calorie Labeling
+1576,43,STATEN ISLAND,Quality of Life
+1577,4,QUEENS,Squeegee
+1578,9,Unspecified,Hazardous Materials
+1579,10,MANHATTAN,Interior Demo
+1580,150,BRONX,Construction
+1581,15,Unspecified,Home Repair
+1582,2,Unspecified,Calorie Labeling
+1583,183,QUEENS,ATF
+1584,6,BRONX,Calorie Labeling
+1585,70,BROOKLYN,ATF
+1586,70,BRONX,Highway Sign - Missing
+1587,2,Unspecified,Electrical
+1588,5,STATEN ISLAND,Legal Services Provider Complaint
+1589,5,BROOKLYN,NORC Complaint
+1590,11,QUEENS,Trans Fat
+1591,4,BRONX,STRUCTURAL
+1592,661,QUEENS,Request Xmas Tree Collection
+1593,573,BROOKLYN,Request Xmas Tree Collection
+1594,72,MANHATTAN,Overflowing Recycling Baskets
+1595,21,BROOKLYN,DOF Parking - Tax Exemption
+1596,2,QUEENS,AGENCY
+1597,6,MANHATTAN,Special Natural Area District (SNAD)
+1598,19,BROOKLYN,Advocate-Co-opCondo Abatement
+1599,47,BRONX,Advocate-Personal Exemptions
+1600,17,BRONX,Advocate - Other
+1601,148,Unspecified,DOF Property - Update Account
+1602,212,Unspecified,DOF Property - Reduction Issue
+1603,14,STATEN ISLAND,Public Toilet
+1604,14,QUEENS,Cooling Tower
+1605,14,BROOKLYN,Cooling Tower
+1606,10,Unspecified,Day Care
+1607,19,Unspecified,FHV Licensee Complaint
+1608,2,QUEENS,Fire Alarm - Reinspection
+1609,5,MANHATTAN,Unlicensed Dog
+1610,7,Unspecified,Asbestos
+1611,2,BROOKLYN,Advocate-SCRIE/DRIE
+1612,1,BRONX,Public Assembly
+1613,13,STATEN ISLAND,Radioactive Material
+1614,2,BRONX,Standpipe - Mechanical
+1615,3,MANHATTAN,STRUCTURAL
+1616,1,QUEENS,Building Condition
+1617,15,BRONX,Overflowing Recycling Baskets
+1618,8,STATEN ISLAND,LinkNYC
+1619,5,STATEN ISLAND,Pet Shop
+1620,1,BRONX,FCST
+1621,1,Unspecified,Advocate-Prop Refunds/Credits
+1622,5,MANHATTAN,Public Assembly
+1623,1,BROOKLYN,Dept of Investigations
+1624,1,Unspecified,Misc. Comments';declare @q ...
+1625,1,Unspecified,Misc. Comments' and '7835'=...
+1626,1,Unspecified,qfix4${695*589}lixaf
+1627,1,Unspecified,Misc. Comments{${sleep(20)}}
+1628,1,Unspecified,bcd9<!--esi-->1ggp&lt...
+1629,2,Unspecified,Standing Water
+1630,2,Unspecified,Sweeping/Missed
+1631,3,BROOKLYN,Squeegee
+1632,1,BRONX,MOLD
+1633,1,Unspecified,Taxpayer Advocate Inquiry
+1634,4,BROOKLYN,Advocate - RPIE
+1635,1,Unspecified,Misc. Comments;declare @q v...
+1636,1,Unspecified,Misc. Comments'+(select loa...
+1637,1,Unspecified,Misc. Comments&echo xjd...
+1638,1,Unspecified,windowswin.ini
+1639,1,Unspecified,"<odb xmlns:xi=""http..."
+1640,1,Unspecified,kawn''lcgv
+1641,1,Unspecified,%E5%98%8A%E5%98%8DX-Injecti...
+1642,1,Unspecified,%2fetc%2fpasswd
+1643,1,Unspecified,Misc. Comments'||(select ex...
+1644,1,Unspecified,c:windowswin.ini Misc. Co...
+1645,1,Unspecified,%2e%2e%2f%2e%2e%2f%2e%2e%2f...
+1646,1,Unspecified,{!xmlparser v='<!DOCTYPE...
+1647,1,Unspecified,../../WEB-INF/web.xml
+1648,1,QUEENS,MSOTHER
+1649,1,STATEN ISLAND,Internal Code
+1650,1,MANHATTAN,Hazardous Material
+1651,1,QUEENS,Hazardous Material
+1652,1,BRONX,NORC Complaint
+1653,1,Unspecified,Advocate-Property Value
+1654,1,MANHATTAN,FCST
+1655,2,,Graffiti

@@ -1,0 +1,490 @@
+,0,1
+0,3-1-1,Homeless Person Assistance
+1,3-1-1,DOF Property - City Rebate
+2,3-1-1,Noise - Helicopter
+3,3-1-1,Sidewalk Condition
+4,3-1-1,Benefit Card Replacement
+5,3-1-1,Meals Home Delivery Required
+6,3-1-1,City Vehicle Placard Complaint
+7,3-1-1,LinkNYC
+8,3-1-1,OEM Disabled Vehicle
+9,3-1-1,Noise Survey
+10,3-1-1,Illegal Parking
+11,3-1-1,DOF Property - State Rebate
+12,ACS,Forms
+13,ACS,Damaged Tree
+14,CEO,General Question
+15,COIB,Forms
+16,DCA,DCA / DOH New License Application Request
+17,DCA,Consumer Complaint
+18,DCAS,Question
+19,DCAS,Comments
+20,DCP,Research Questions
+21,DEP,Air Quality
+22,DEP,Water Maintenance
+23,DEP,Asbestos
+24,DEP,FHE
+25,DEP,FATF
+26,DEP,Hazardous Material
+27,DEP,Plant
+28,DEP,ATF
+29,DEP,Noise
+30,DEP,Lead
+31,DEP,Sewer
+32,DEP,Water Conservation
+33,DEP,Water System
+34,DEP,Water Quality
+35,DEP,Hazardous Materials
+36,DEP,MSOTHER
+37,DEP,Industrial Waste
+38,DEP,SRDE
+39,DEP,Internal Code
+40,DEP,SG-99
+41,DEP,FCST
+42,DEP,CST
+43,DFTA,Senior Center Complaint
+44,DFTA,Housing - Low Income Senior
+45,DFTA,Case Management Agency Complaint
+46,DFTA,Home Delivered Meal - Missed Delivery
+47,DFTA,Eviction
+48,DFTA,Alzheimer's Care
+49,DFTA,Transportation Provider Complaint
+50,DFTA,Elder Abuse
+51,DFTA,NORC Complaint
+52,DFTA,Home Care Provider Complaint
+53,DFTA,SCRIE
+54,DFTA,Legal Services Provider Complaint
+55,DFTA,Housing Options
+56,DFTA,Bereavement Support Group
+57,DFTA,Home Delivered Meal Complaint
+58,DFTA,Home Repair
+59,DFTA,HEAP Assistance
+60,DFTA,Weatherization
+61,DFTA,Utility Program
+62,DHS,Homeless Person Assistance
+63,DHS,DHS Advantage -Landlord/Broker
+64,DHS,DHS Advantage - Tenant
+65,DHS,DHS Advantage - Third Party
+66,DHS,DHS Income Savings Requirement
+67,DOB,Elevator
+68,DOB,General Construction/Plumbing
+69,DOB,Construction Safety Enforcement
+70,DOB,Special Operations
+71,DOB,Quality of Life
+72,DOB,Electrical
+73,DOB,Stalled Sites
+74,DOB,Scaffold Safety
+75,DOB,Dept of Investigations
+76,DOB,Special Projects Inspection Team (SPIT)
+77,DOB,Building Marshals office
+78,DOB,Investigations and Discipline (IAD)
+79,DOB,Facades
+80,DOB,Cranes and Derricks
+81,DOB,Boilers
+82,DOB,Miscellaneous Categories
+83,DOB,Special Natural Area District (SNAD)
+84,DOB,Forensic Engineering
+85,DOB,Single Occupancy Bathroom
+86,DOB,Construction
+87,DOB,Traffic Signal Condition
+88,DOB,Maintenance or Facility
+89,DOB,Forms
+90,DOB,Interior Demo
+91,DOB,Lost Property
+92,DOB,Building/Use
+93,DOB,BEST/Site Safety
+94,DOB,Plumbing
+95,DOB,Borough Office
+96,DOB,Sustainability Enforcement
+97,DOB,Emergency Response Team (ERT)
+98,DOB,Executive Inspections
+99,DOE,Safety
+100,DOE,Parent Leadership
+101,DOE,No Child Left Behind
+102,DOE,School Maintenance
+103,DOE,Health
+104,DOE,Teaching/Learning/Instruction
+105,DOE,Discipline and Suspension
+106,DOE,Registration and Transfers
+107,DOF,DOF Parking - Payment Issue
+108,DOF,DOF Property - Request Copy
+109,DOF,SCRIE
+110,DOF,DOF Property - Update Account
+111,DOF,DOF Property - Payment Issue
+112,DOF,DOF Property - Property Value
+113,DOF,DOF Parking - Request Copy
+114,DOF,DOF Parking - Tax Exemption
+115,DOF,Advocate - Other
+116,DOF,Advocate-Co-opCondo Abatement
+117,DOF,Advocate-Personal Exemptions
+118,DOF,Advocate-Business Tax
+119,DOF,Advocate-Prop Class Incorrect
+120,DOF,Advocate - Lien
+121,DOF,DOF Property - City Rebate
+122,DOF,Advocate-Foreclosure
+123,DOF,Advocate-SCRIE/DRIE
+124,DOF,DOF Property - Owner Issue
+125,DOF,DOF Property - Reduction Issue
+126,DOF,Advocate-Prop Refunds/Credits
+127,DOF,DOF Property - RPIE Issue
+128,DOF,DRIE
+129,DOF,Advocate - RPIE
+130,DOF,Advocate-Property Value
+131,DOF,Taxpayer Advocate Inquiry
+132,DOF,Advocate-UBT
+133,DOF,DOF Parking - Request Status
+134,DOF,Advocate-Commercial Exemptions
+135,DOF,DOF Parking - DMV Clearance
+136,DOF,DOF Property - State Rebate
+137,DOF,DOF Parking - Address Update
+138,DOF,Advocate - Levy
+139,DOF,For Hire Vehicle Complaint
+140,DOHMH,Non-Residential Heat
+141,DOHMH,Window Guard
+142,DOHMH,Rodent
+143,DOHMH,Unsanitary Animal Pvt Property
+144,DOHMH,Cooling Tower
+145,DOHMH,Mold
+146,DOHMH,Bottled Water
+147,DOHMH,Illegal Animal Kept as Pet
+148,DOHMH,Poison Ivy
+149,DOHMH,Standing Water
+150,DOHMH,Mosquitoes
+151,DOHMH,Lifeguard
+152,DOHMH,Animal Facility - No Permit
+153,DOHMH,X-Ray Machine/Equipment
+154,DOHMH,Trans Fat
+155,DOHMH,LEAD
+156,DOHMH,Tanning
+157,DOHMH,Injured Wildlife
+158,DOHMH,Damaged Tree
+159,DOHMH,Food Establishment
+160,DOHMH,DPR Internal
+161,DOHMH,Smoking
+162,DOHMH,Food Poisoning
+163,DOHMH,Unsanitary Pigeon Condition
+164,DOHMH,Indoor Air Quality
+165,DOHMH,Unlicensed Dog
+166,DOHMH,Asbestos
+167,DOHMH,Indoor Sewage
+168,DOHMH,Unleashed Dog
+169,DOHMH,Drinking Water
+170,DOHMH,Mobile Food Vendor
+171,DOHMH,Beach/Pool/Sauna Complaint
+172,DOHMH,Day Care
+173,DOHMH,Radioactive Material
+174,DOHMH,Pet Shop
+175,DOHMH,Portable Toilet
+176,DOHMH,Tattooing
+177,DOHMH,Illegal Animal - Sold/Kept
+178,DOHMH,Unsanitary Animal Facility
+179,DOHMH,DOF Literature Request
+180,DOHMH,Illegal Animal Sold
+181,DOHMH,Animal in a Park
+182,DOHMH,Harboring Bees/Wasps
+183,DOHMH,Calorie Labeling
+184,DOHMH,Summer Camp
+185,DOHMH,Forms
+186,DOHMH,Trapping Pigeon
+187,DOHMH,MOLD
+188,DOHMH,Asbestos/Garbage Nuisance
+189,DOHMH,Traffic Signal Condition
+190,DOITT,LinkNYC
+191,DOITT,Public Payphone Complaint
+192,DOITT,Forms
+193,DORIS,DOR Literature Request
+194,DOT,Bus Stop Shelter Placement
+195,DOT,Street Sign - Missing
+196,DOT,Ferry Complaint
+197,DOT,Highway Condition
+198,DOT,Highway Sign - Dangling
+199,DOT,Municipal Parking Facility
+200,DOT,Ferry Permit
+201,DOT,Highway Sign - Missing
+202,DOT,Building Condition
+203,DOT,Tunnel Condition
+204,DOT,Parking Card
+205,DOT,Maintenance or Facility
+206,DOT,Forms
+207,DOT,Water Leak
+208,DOT,HPD Literature Request
+209,DOT,Street Condition
+210,DOT,Street Light Condition
+211,DOT,Sidewalk Condition
+212,DOT,Curb Condition
+213,DOT,Broken Parking Meter
+214,DOT,Street Sign - Damaged
+215,DOT,Traffic Signal Condition
+216,DOT,Bridge Condition
+217,DOT,Street Sign - Dangling
+218,DOT,Highway Sign - Damaged
+219,DOT,Bus Stop Shelter Complaint
+220,DOT,Bike Rack Condition
+221,DOT,Ferry Inquiry
+222,DOT,Public Toilet
+223,DOT,DEP Sidewalk Condition
+224,DOT,DEP Street Condition
+225,DOT,SNW
+226,DOT,Broken Muni Meter
+227,DOT,Food Establishment
+228,DOT,Electric
+229,DOT,DEP Highway Condition
+230,DOT,Root/Sewer/Sidewalk Condition
+231,DPR,Overgrown Tree/Branches
+232,DPR,DPR Internal
+233,DPR,Dead/Dying Tree
+234,DPR,Illegal Tree Damage
+235,DPR,Maintenance or Facility
+236,DPR,Damaged Tree
+237,DPR,Forms
+238,DPR,Root/Sewer/Sidewalk Condition
+239,DPR,New Tree Request
+240,DPR,Noise - Street/Sidewalk
+241,DPR,Animal in a Park
+242,DPR,Violation of Park Rules
+243,DPR,Unsanitary Condition
+244,DPR,Dead Tree
+245,DPR,School Maintenance
+246,DSNY,Graffiti
+247,DSNY,Dirty Conditions
+248,DSNY,Litter Basket / Request
+249,DSNY,Request Large Bulky Item Collection
+250,DSNY,Sweeping/Inadequate
+251,DSNY,Electronics Waste
+252,DSNY,Sweeping/Missed-Inadequate
+253,DSNY,Derelict Vehicles
+254,DSNY,Adopt-A-Basket
+255,DSNY,Recycling Enforcement
+256,DSNY,Standpipe - Mechanical
+257,DSNY,Sweeping/Missed
+258,DSNY,Request Xmas Tree Collection
+259,DSNY,Collection Truck Noise
+260,DSNY,Request Changes - A.S.P.
+261,DSNY,Employee Behavior
+262,DSNY,Other Enforcement
+263,DSNY,Sanitation Condition
+264,DSNY,Vacant Lot
+265,DSNY,Snow
+266,DSNY,Missed Collection (All Materials)
+267,DSNY,Overflowing Litter Baskets
+268,DSNY,Derelict Bicycle
+269,DSNY,DSNY Spillage
+270,DSNY,Foam Ban Enforcement
+271,DSNY,Forms
+272,DSNY,Missed Collection
+273,DSNY,Overflowing Recycling Baskets
+274,DVS,Misc. Comments'+eval(compil...
+275,DVS,Misc. Comments&nslookup...
+276,DVS,..././..././..././..././......
+277,DVS,"Misc. Comments'""`0&amp..."
+278,DVS,{!xmlparser v='<!DOCTYPE...
+279,DVS,Misc. Comments|ping -c 21 1...
+280,DVS,../WEB-INF/web.xml;x=
+281,DVS,Misc. Comments............
+282,DVS,Misc. Comments'
+283,DVS,.....................
+284,DVS,"Misc. Comments',0)waitfor d..."
+285,DVS,*)(!(objectClass=*)
+286,DVS,......................
+287,DVS,g0oii1s4s5)(objectClass=*
+288,DVS,.../Misc. Comments
+289,DVS,Misc. Comments');declare @q...
+290,DVS,*)(objectClass=*
+291,DVS,Misc. Comments69075347' or ...
+292,DVS,Misc. Comments>  BCC:bl0...
+293,DVS,Misc. Comments')waitfor del...
+294,DVS,1430*4963
+295,DVS,Misc. Commentso0w3r%>xb6...
+296,DVS,() { :;}; /bin/sleep 0
+297,DVS,../../../../../../../../../...
+298,DVS,(select load_file('\\615h...
+299,DVS,..../..../..../..../......
+300,DVS,Misc. Comments52038737' or ...
+301,DVS,/./validate_form.php
+302,DVS,Misc. Comments}}t2v95'/&quo...
+303,DVS,idexf3mrb7)(!(objectClass=*)
+304,DVS,Misc. Comments|ping -n 21 1...
+305,DVS,Misc. Comments'+(select loa...
+306,DVS,.../..../..../..../.......
+307,DVS,Misc. Commentseowljujfh8
+308,DVS,${3804*3137}
+309,DVS,Misc. Comments%}dt2pq'/&quo...
+310,DVS,../../../WEB-INF/web.xml
+311,DVS,http://g7orz5h9iu2sh6z332rj...
+312,DVS,../../WEB-INF/web.xml;x=
+313,DVS,Misc. Comments&echo xjd...
+314,DVS,Misc. Comments'(select*from...
+315,DVS,"<vlv xmlns=""http://..."
+316,DVS,Misc. Comments' and 7702=77...
+317,DVS,() { :;}; /bin/sleep 11
+318,DVS,file:///c:/windows/win.ini
+319,DVS,../WEB-INF/web.xml
+320,DVS,$(sleep 11)
+321,DVS,Misc. Comments'+(select*fro...
+322,DVS,@(9313*3464)
+323,DVS,Misc. Comments' and (select...
+324,DVS,%c0%ae/WEB-INF/web.xml
+325,DVS,"Misc. Comments"""
+326,DVS,nslookup -q=cname nneyfcxgy...
+327,DVS,qfix4${695*589}lixaf
+328,DVS,eval(compile('for x in rang...
+329,DVS,hcvn1{{687*375}}gji51
+330,DVS,c:windowswin.ini Misc. Co...
+331,DVS,"Misc. Comments""|echo 2..."
+332,DVS,%2e%2e%2f%2e%2e%2f%2e%2e%2f...
+333,DVS,Misc. Comments'|echo y9v6fc...
+334,DVS,./validate_form.php
+335,DVS,../../../../WEB-INF/web.xml
+336,DVS,../../WEB-INF/web.xml
+337,DVS,%c0%ae/%c0%ae/%c0%ae/WEB-IN...
+338,DVS,(select extractvalue(xmltyp...
+339,DVS,%c0%ae/%c0%ae/%c0%ae/%c0%ae...
+340,DVS,Misc. Comments'+(function()...
+341,DVS,Misc. Comments'||(select ex...
+342,DVS,Misc. Comments88909845' or ...
+343,DVS,Misc. Comments&ping -n ...
+344,DVS,Misc. Comments47876391' or ...
+345,DVS,%{4761*8506}
+346,DVS,Misc. Comments' waitfor del...
+347,DVS,Misc. Comments  BCC:a5glxzf...
+348,DVS,Misc. Comments' and '1618'=...
+349,DVS,() { _; } >_
+350,DVS,Misc. Comments'.sleep(20).'
+351,DVS,"Misc. Comments,(select*from..."
+352,DVS,c:windowswin.ini
+353,DVS,%2e%2e%5c%2e%2e%5c%2e%2e%5c...
+354,DVS,.../...//.../...//.../...//...
+355,DVS,Misc. Comments../../../../....
+356,DVS,%{(#dm=@ognl.OgnlContext@DE...
+357,DVS,%c0%ae/%c0%ae/WEB-INF/web.xml
+358,DVS,file:///etc/passwd
+359,DVS,Misc. Comments;declare @q v...
+360,DVS,%E5%98%8A%E5%98%8DX-Injecti...
+361,DVS,Misc. Comments' and 6049=60...
+362,DVS,../../../WEB-INF/web.xml;x=
+363,DVS,Misc. Comments'+sleep(20.to...
+364,DVS,Misc. Comments);declare @q ...
+365,DVS,266dyrgvhg1egsyp2oq57axbm2s...
+366,DVS,Misc. Comments';declare @q ...
+367,DVS,Misc. Comments'|ping -c 21 ...
+368,DVS,yw97y0gi2s
+369,DVS,windowswin.ini
+370,DVS,Misc. Comments|nslookup -q=...
+371,DVS,/etc/passwd
+372,DVS,`sleep 11`
+373,DVS,Misc. Comments]]>><
+374,DVS,"a'a'b""c>?>%}}%%..."
+375,DVS,"<odb xmlns:xi=""http..."
+376,DVS,.../....///.../....///.../....
+377,DVS,kawn''lcgv
+378,DVS,%2fetc%2fpasswd
+379,DVS,Misc. Comments' and '7835'=...
+380,DVS,Misc. Comments{${sleep(20)}}
+381,DVS,Misc. Comments|echo 3p7wexz...
+382,DVS,"Misc. Comments""|ping -..."
+383,DVS,Forms
+384,DVS,"""-->'-->`-->&..."
+385,DVS,bcd9<!--esi-->1ggp&lt...
+386,EDC,Noise - Helicopter
+387,FDNY,Rangehood
+388,FDNY,Open Flame Permit
+389,FDNY,Fire Alarm - Modification
+390,FDNY,Fire Alarm - Reinspection
+391,FDNY,Gas Station Discharge Lines
+392,FDNY,Fire Alarm - New System
+393,FDNY,Sprinkler - Mechanical
+394,FDNY,Homebound Evacuation 4
+395,FDNY,Hazmat Storage/Use
+396,FDNY,Public Assembly
+397,FDNY,Public Assembly - Temporary
+398,FDNY,Fire Alarm - Replacement
+399,HPD,APPLIANCE
+400,HPD,WATER LEAK
+401,HPD,HEAT/HOT WATER
+402,HPD,DOOR/WINDOW
+403,HPD,OUTSIDE BUILDING
+404,HPD,GENERAL
+405,HPD,AGENCY
+406,HPD,UNSANITARY CONDITION
+407,HPD,Appliance
+408,HPD,PAINT/PLASTER
+409,HPD,General
+410,HPD,SAFETY
+411,HPD,ELEVATOR
+412,HPD,HPD Literature Request
+413,HPD,Outside Building
+414,HPD,Unsanitary Condition
+415,HPD,Plumbing
+416,HPD,Safety
+417,HPD,HEATING
+418,HPD,PAINT - PLASTER
+419,HPD,CONSTRUCTION
+420,HPD,NONCONST
+421,HPD,PLUMBING
+422,HPD,GENERAL CONSTRUCTION
+423,HPD,FLOORING/STAIRS
+424,HPD,VACANT APARTMENT
+425,HPD,ELECTRIC
+426,HPD,Mold
+427,HPD,STRUCTURAL
+428,HRA,Benefit Card Replacement
+429,MOC,Select Message Type...
+430,NYCEM,OEM Literature Request
+431,NYCEM,OEM Disabled Vehicle
+432,NYPD,Illegal Parking
+433,NYPD,Drug Activity
+434,NYPD,Noise - Residential
+435,NYPD,Noise - Commercial
+436,NYPD,Blocked Driveway
+437,NYPD,Graffiti
+438,NYPD,Noise - Vehicle
+439,NYPD,Illegal Fireworks
+440,NYPD,Posting Advertisement
+441,NYPD,Abandoned Vehicle
+442,NYPD,Homeless Encampment
+443,NYPD,Squeegee
+444,NYPD,Noise - Park
+445,NYPD,Noise Survey
+446,NYPD,Panhandling
+447,NYPD,Sidewalk Condition
+448,NYPD,Bike/Roller/Skate Chronic
+449,NYPD,Maintenance or Facility
+450,NYPD,Disorderly Youth
+451,NYPD,Street Condition
+452,NYPD,Traffic/Illegal Parking
+453,NYPD,Derelict Vehicle
+454,NYPD,Ferry Complaint
+455,NYPD,Noise - Street/Sidewalk
+456,NYPD,Broken Parking Meter
+457,NYPD,Drinking
+458,NYPD,New Tree Request
+459,NYPD,Noise - House of Worship
+460,NYPD,Non-Emergency Police Matter
+461,NYPD,Animal-Abuse
+462,NYPD,Traffic
+463,NYPD,Animal in a Park
+464,NYPD,Vending
+465,NYPD,Dead/Dying Tree
+466,NYPD,Animal Abuse
+467,NYPD,Taxi Complaint
+468,NYPD,Urinating in Public
+469,NYPD,Ferry Permit
+470,NYPD,Bus Stop Shelter Complaint
+471,OMB,Select Message Type...
+472,TAT,Question
+473,TAT,Comments
+474,TAX,Question
+475,TAX,Comments
+476,TLC,For Hire Vehicle Complaint
+477,TLC,Taxi Complaint
+478,TLC,Taxi Compliment
+479,TLC,Green Taxi Complaint
+480,TLC,Found Property
+481,TLC,Taxi Licensee Complaint
+482,TLC,Lost Property
+483,TLC,For Hire Vehicle Report
+484,TLC,Green Taxi Report
+485,TLC,Dispatched Taxi Complaint
+486,TLC,Taxi Report
+487,TLC,Dispatched Taxi Compliment
+488,TLC,FHV Licensee Complaint
